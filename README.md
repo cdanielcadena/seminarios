@@ -10,6 +10,7 @@ https://www.researchgate.net/profile/Javier_Luque2
 # Enero 31
 
 Dr. Andrés Quiñones, Departamento de Ciencias Biológicas, Universidad de los Andes.
+http://www.andres-quinones.com/
 
 # Febrero 7
 
