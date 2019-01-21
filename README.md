@@ -17,7 +17,7 @@
 ### Febrero 7
 
 [Dr. Natasha Bloch](http://www.zoology.ubc.ca/mank-lab/Natasha/), Departamento de Ingeniería Biomédica, Universidad de los Andes.
-**"Neurogenomica de preferencias de apareamiento”**.
+**"Neurogenómica de preferencias de apareamiento”**.
 
 ### Febrero 14
 
