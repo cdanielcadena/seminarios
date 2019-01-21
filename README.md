@@ -12,7 +12,9 @@
 
 ### Enero 31
 
-[Dr. Andrés Quiñones](http://www.andres-quinones.com/), Departamento de Ciencias Biológicas, Universidad de los Andes.
+[Dr. Andrés Quiñones](http://www.andres-quinones.com/)
+
+Departamento de Ciencias Biológicas, Universidad de los Andes.
 
 ### Febrero 7
 
