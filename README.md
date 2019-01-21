@@ -24,3 +24,7 @@ http://www.zoology.ubc.ca/mank-lab/Natasha/
 # Febrero 14, 2019
 
 Dr. Maryam Chaib de Mares
+
+# Febrero 21, 2019
+
+Dr. Glenn Seeholzer, American Museum of Natural History & Departamento de Ciencias Biológicas, Universidad de los Andes.
