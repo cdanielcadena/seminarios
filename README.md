@@ -25,7 +25,7 @@ Dr. Maryam Chaib de Mares
 
 ### Febrero 21
 
-[Dr. Glenn Seeholzer](https://glennseeholzer.weebly.com/publications.html), American Museum of Natural History & Departamento de Ciencias Biológicas, Universidad de los Andes. **"Clinal variation as a window into the process of speciation in Neotropical birds"**
+[Dr. Glenn Seeholzer](https://glennseeholzer.weebly.com/publications.html), American Museum of Natural History & Departamento de Ciencias Biológicas, Universidad de los Andes. **"Clinal variation as a window into the process of speciation in Neotropical birds"**.
 
 ### Febrero 28
 
