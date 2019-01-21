@@ -8,8 +8,7 @@
 ## Primer Semestre de 2019
 ### Enero 24
 
-[Dr. Javier Luque](https://www.researchgate.net/profile/Javier_Luque2)
-     Yale University.
+[Dr. Javier Luque](https://www.researchgate.net/profile/Javier_Luque2), Yale University.
 
 ### Enero 31
 
