@@ -29,14 +29,14 @@
 
 ### Febrero 28
 
-TBA
+Reservado
 
-### Marzo 7`
-[Dr. Mauricio Santos](https://scholar.google.com/citations?user=RmrmFqoAAAAJ&hl=en). Departamento de Ingeniería Biomédica, Universidad de los Andes. **A dynamical perspective to malaria and climate in low transmisión regions**
-
-No hay website pero mi google scholar es este
+### Marzo 7
+[Dr. Mauricio Santos](https://scholar.google.com/citations?user=RmrmFqoAAAAJ&hl=en). Departamento de Ingeniería Biomédica, Universidad de los Andes. "**A dynamical perspective to malaria and climate in low transmisión regions**".
 
 ### Marzo 14
+
+Reservado
 
 ### Marzo 21
 
