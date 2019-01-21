@@ -12,14 +12,12 @@
 
 ### Enero 31
 
-[Dr. Andrés Quiñones](http://www.andres-quinones.com/)
-
-Departamento de Ciencias Biológicas, Universidad de los Andes.
+[Dr. Andrés Quiñones](http://www.andres-quinones.com/), Departamento de Ciencias Biológicas, Universidad de los Andes.
 
 ### Febrero 7
 
 [Dr. Natasha Bloch](http://www.zoology.ubc.ca/mank-lab/Natasha/), Departamento de Ingeniería Biomédica, Universidad de los Andes.
-**"Neurogenomica de preferencias de apareamiento”**
+**"Neurogenomica de preferencias de apareamiento”**.
 
 ### Febrero 14
 
@@ -27,7 +25,7 @@ Dr. Maryam Chaib de Mares
 
 ### Febrero 21
 
-[Dr. Glenn Seeholzer](https://glennseeholzer.weebly.com/publications.html), American Museum of Natural History & Departamento de Ciencias Biológicas, Universidad de los Andes.
+[Dr. Glenn Seeholzer](https://glennseeholzer.weebly.com/publications.html), American Museum of Natural History & Departamento de Ciencias Biológicas, Universidad de los Andes. **"Clinal variation as a window into the process of speciation in Neotropical birds"**
 
 ### Febrero 28
 
