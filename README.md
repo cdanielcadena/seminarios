@@ -1,6 +1,8 @@
 # Seminario del Departamento de Ciencias Biológicas, Universidad de los Andes, Primer Semestre de 2019
 
-  Los seminarios son los jueves de cada semana de 12h30 a 2 pm, salón ML 616. Entrada libre.
+    Los seminarios son los jueves de cada semana de 12:30 a 1:20 pm.
+    Salón ML 616
+    Entrada Libre
 
 # Enero 24
 
