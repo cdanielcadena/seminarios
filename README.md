@@ -8,18 +8,15 @@
 # Enero 24, 2019
 
 [Dr. Javier Luque](https://www.researchgate.net/profile/Javier_Luque2), Yale University.
-https://www.researchgate.net/profile/Javier_Luque2
 
 # Enero 31, 2019
 
-Dr. Andrés Quiñones, Departamento de Ciencias Biológicas, Universidad de los Andes.
-http://www.andres-quinones.com/
+[Dr. Andrés Quiñones](http://www.andres-quinones.com/), Departamento de Ciencias Biológicas, Universidad de los Andes.
 
 # Febrero 7, 2019
 
-Dr. Natasha Bloch, Departamento de Ingeniería Biomédica, Universidad de los Andes.
+[Dr. Natasha Bloch] (http://www.zoology.ubc.ca/mank-lab/Natasha/), Departamento de Ingeniería Biomédica, Universidad de los Andes.
 "Neurogenomica de preferencias de apareamiento”
-http://www.zoology.ubc.ca/mank-lab/Natasha/
 
 # Febrero 14, 2019
 
@@ -27,5 +24,4 @@ Dr. Maryam Chaib de Mares
 
 # Febrero 21, 2019
 
-Dr. Glenn Seeholzer, American Museum of Natural History & Departamento de Ciencias Biológicas, Universidad de los Andes.
-https://glennseeholzer.weebly.com/
+[Dr. Glenn Seeholzer](https://glennseeholzer.weebly.com/publications.html), American Museum of Natural History & Departamento de Ciencias Biológicas, Universidad de los Andes.
