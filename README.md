@@ -15,7 +15,7 @@
 
 # Febrero 7, 2019
 
-[Dr. Natasha Bloch] (http://www.zoology.ubc.ca/mank-lab/Natasha/), Departamento de Ingeniería Biomédica, Universidad de los Andes.
+[Dr. Natasha Bloch](http://www.zoology.ubc.ca/mank-lab/Natasha/), Departamento de Ingeniería Biomédica, Universidad de los Andes.
 "Neurogenomica de preferencias de apareamiento”
 
 # Febrero 14, 2019
