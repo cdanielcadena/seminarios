@@ -7,7 +7,7 @@
 
 # Enero 24, 2019
 
-Dr. Javier Luque, Yale University.
+[Dr. Javier Luque](https://www.researchgate.net/profile/Javier_Luque2), Yale University.
 https://www.researchgate.net/profile/Javier_Luque2
 
 # Enero 31, 2019
