@@ -4,7 +4,7 @@ Los seminarios son los jueves de cada semana de 12h30 a 2 pm, salón ML 616. Ent
 
 # Enero 24
 
-Dr. Javier Luque, Yale University
+Dr. Javier Luque, Yale University.
 https://www.researchgate.net/profile/Javier_Luque2
 
 # Enero 31
