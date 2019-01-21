@@ -1,15 +1,22 @@
 # Seminario del Departamento de Ciencias Biológicas, Universidad de los Andes
 
-This repository contains the data and code employed for analyses presented in:
+Los seminarios son los jueves de cada semana de 12h30 a 2 pm, salón ML 616, entrada libre
 
-    Morales-Rozo A, Tenorio EA, Carling MD & Cadena CD. 2017. 
-    Origin and cross-century dynamics of an avian hybrid zone. 
-    bioRxiv http://biorxiv.org/content/early/2017/04/11/012856
+# Enero 24
 
-# Data
+Dr. Javier Luque, Yale University
+https://www.researchgate.net/profile/Javier_Luque2
 
-The file `Ramphocelus_data.csv` contains locality data as well as morphological measurements and plumage reflectance data taken on museum specimens.
+# Enero 31
 
-# Code
+Dr. Andrés Quiñones, Departamento de Ciencias Biológicas, Universidad de los Andes.
 
-We are currently working on an annotated version of the R code we employed for analyses, which we will post here shortly.
+# Febrero 7
+
+Dr. Natasha Bloch, Departamento de Ingeniería Biomédica, Universidad de los Andes.
+"Neurogenomica de preferencias de apareamiento”
+http://www.zoology.ubc.ca/mank-lab/Natasha/
+
+# Febrero 14
+
+Dr. Maryam Chaib de Mares
