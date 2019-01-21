@@ -23,6 +23,30 @@
 
 Dr. Maryam Chaib de Mares
 
-### Febrero 21, 2019
+### Febrero 21
 
 [Dr. Glenn Seeholzer](https://glennseeholzer.weebly.com/publications.html), American Museum of Natural History & Departamento de Ciencias Biológicas, Universidad de los Andes.
+
+### Febrero 28
+
+TBA
+
+### Marzo 7
+
+### Marzo 14
+
+### Marzo 21
+
+### Marzo 28
+
+### Abril 4
+
+### Abril 11
+
+### Abril 18
+
+Semana Santa. No hay seminario.
+
+### Abril 25
+
+
