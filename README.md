@@ -5,23 +5,24 @@
     Entrada Libre
     Contacto: C. Daniel Cadena (ccadena@uniandes.edu.co) o Andrés Link (a.link@uniandes.edu.co)
 
-## Enero 24, 2019
+## Primer Semestre de 2019
+### Enero 24
 
 [Dr. Javier Luque](https://www.researchgate.net/profile/Javier_Luque2), Yale University.
 
-## Enero 31, 2019
+### Enero 31
 
 [Dr. Andrés Quiñones](http://www.andres-quinones.com/), Departamento de Ciencias Biológicas, Universidad de los Andes.
 
-## Febrero 7, 2019
+### Febrero 7
 
 [Dr. Natasha Bloch](http://www.zoology.ubc.ca/mank-lab/Natasha/), Departamento de Ingeniería Biomédica, Universidad de los Andes.
 "Neurogenomica de preferencias de apareamiento”
 
-## Febrero 14, 2019
+### Febrero 14
 
 Dr. Maryam Chaib de Mares
 
-## Febrero 21, 2019
+### Febrero 21, 2019
 
 [Dr. Glenn Seeholzer](https://glennseeholzer.weebly.com/publications.html), American Museum of Natural History & Departamento de Ciencias Biológicas, Universidad de los Andes.
