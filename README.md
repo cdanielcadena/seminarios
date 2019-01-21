@@ -49,4 +49,14 @@ Semana Santa. No hay seminario.
 
 ### Abril 25
 
+[Dr. Juan Pablo Jaramillo](http://web.ecologia.unam.mx/index.php/investigadores/juan-pablo-jaramillo), Instituto de Ecología, Universidad Nacional Autónoma de México. 
+
+### Mayo 2
+
+### Mayo 9
+
+
+
+
+
 
