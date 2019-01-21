@@ -21,7 +21,7 @@
 
 ### Febrero 14
 
-Dr. Maryam Chaib de Mares
+[Dr. Maryam Chaib de Mares](https://www.researchgate.net/profile/Maryam_Chaib_De_Mares)
 
 ### Febrero 21
 
