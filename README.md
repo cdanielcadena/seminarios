@@ -28,7 +28,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 
 ### Febrero 28
 
-Dr. Isabel Natalia Sierra. Contacto: Diego Jiménez.
+[Dr. Isabel Natalia Sierra](https://www.researchgate.net/profile/Isabel_Sierra_Garcia). Contacto: Diego Jiménez.
 
 ### Marzo 7
 [Dr. Mauricio Santos](https://scholar.google.com/citations?user=RmrmFqoAAAAJ&hl=en), Investigador Postdoctoral. Departamento de Ingeniería Biomédica, Universidad de los Andes. "**A dynamical perspective to malaria and climate in low-transmission regions**". Contacto: Daniel Cadena.
