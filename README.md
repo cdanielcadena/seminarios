@@ -35,7 +35,7 @@ Dr. Isabel Natalia Sierra. Contacto: Diego Jiménez.
 
 ### Marzo 14
 
-[Dr. Santiago Madriñán](https://botanica.uniandes.edu.co/), Profesor Titular, Departamento de Ciencias Biológicas.
+[Dr. Santiago Madriñán](https://botanica.uniandes.edu.co/), Profesor Titular, Departamento de Ciencias Biológicas, Universidad de los Andes.
 
 ### Marzo 21
 
