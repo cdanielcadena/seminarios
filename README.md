@@ -28,7 +28,7 @@
 
 ### Febrero 28
 
-Reservado
+Dr. Isabel Natalia Sierra. Contacto: Diego Jiménez.
 
 ### Marzo 7
 [Dr. Mauricio Santos](https://scholar.google.com/citations?user=RmrmFqoAAAAJ&hl=en), Investigador Postdoctoral. Departamento de Ingeniería Biomédica, Universidad de los Andes. "**A dynamical perspective to malaria and climate in low-transmission regions**". Contacto: Daniel Cadena.
