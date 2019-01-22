@@ -16,7 +16,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 
 ### Febrero 7
 
-[Dr. Natasha Bloch](http://www.zoology.ubc.ca/mank-lab/Natasha/), Profesora Asistente. Departamento de Ingeniería Biomédica, Universidad de los Andes. **"Neurogenómica de preferencias de apareamiento”**. Contacto: Daniel Cadena.
+[Dr. Natasha Bloch](http://www.zoology.ubc.ca/mank-lab/Natasha/), Profesora Asistente. Departamento de Ingeniería Biomédica, Universidad de los Andes. **"Neurogenómica de preferencias de apareamiento”**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
 
 ### Febrero 14
 
