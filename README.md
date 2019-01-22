@@ -12,7 +12,7 @@
 
 ### Enero 31
 
-Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/maestria-en-ciencias-biologicas) y [doctorado](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/doctorado-en-ciencias-biologia) de la Escuela de Posgrado del Departamento de Ciencias Biológicas. Responsable: [Adriana Bernal](mailto:abernal@uniandes.edu.co)
+Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/maestria-en-ciencias-biologicas) y [doctorado](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/doctorado-en-ciencias-biologia) de la Escuela de Posgrado del Departamento de Ciencias Biológicas. Responsable: [Adriana Bernal](mailto:abernal@uniandes.edu.co).
 
 ### Febrero 7
 
@@ -28,7 +28,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 
 ### Febrero 28
 
-[Dr. Isabel Natalia Sierra](https://www.researchgate.net/profile/Isabel_Sierra_Garcia). [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
+[Dr. Isabel Natalia Sierra](https://www.researchgate.net/profile/Isabel_Sierra_Garcia). Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
 
 ### Marzo 7
 [Dr. Mauricio Santos](https://scholar.google.com/citations?user=RmrmFqoAAAAJ&hl=en), Investigador Postdoctoral. Departamento de Ingeniería Biomédica, Universidad de los Andes. "**A dynamical perspective to malaria and climate in low-transmission regions**". Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
