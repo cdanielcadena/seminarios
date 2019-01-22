@@ -12,18 +12,7 @@
 
 ### Enero 31
 
-[Dr. Andrés Quiñones](http://www.andres-quinones.com/), Investigador Postdoctoral. Departamento de Ciencias Biológicas, Universidad de los Andes. **"El rol de la plasticidad fenotípica y la historia de vida en la evolución de las sociedades animales: teorías inspiradas en sociedades de peces e insectos"** Contacto: Daniel Cadena.
-
-    La evolución de las sociedades animales ha sido una recurrente pregunta en biología evolutiva desde que Darwin mismo
-    argumentó que la existencia de individuos estériles en las sociedades de insectos representaba un reto casi 
-    insuperable para su teoría de la selección natural. Las sociedades animales presentan una gran diversidad de
-    organización e historias de vida; igualmente diversas son las teorías que tratan de explicar como la selección 
-    natural lleva a poblaciones de individuos solitarios a la formación de grupos altamente interdependientes. En esta 
-    charla, me enfocaré en dos casos específicos de sociedades animales, las sociedades de insectos y las sociedades de 
-    peces cíclidos con cría cooperativa. Presentaré una serie de modelos matemáticos y computacionales que formalizan 
-    varias teorías sobre el origen de estas sociedades, intentando incluir detalles biológicos relevantes como la 
-    historia de vida y la plasticidad fenotípica. Bajo la luz de los resultados del modelamiento discutiré la relevancia 
-    de factores tradicionalmente considerados importantes como el nivel de parentesco.
+Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/maestria-en-ciencias-biologicas) y [doctorado](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/doctorado-en-ciencias-biologia) de la Escuela de Posgrado del Departamento de Ciencias Biológicas. Responsable: Adriana Bernal.
 
 ### Febrero 7
 
@@ -49,6 +38,19 @@ Dr. Isabel Natalia Sierra. Contacto: Diego Jiménez.
 [Dr. Santiago Madriñán](https://botanica.uniandes.edu.co/), Profesor Titular, Departamento de Ciencias Biológicas.
 
 ### Marzo 21
+
+[Dr. Andrés Quiñones](http://www.andres-quinones.com/), Investigador Postdoctoral. Departamento de Ciencias Biológicas, Universidad de los Andes. **"El rol de la plasticidad fenotípica y la historia de vida en la evolución de las sociedades animales: teorías inspiradas en sociedades de peces e insectos"** Contacto: Daniel Cadena.
+
+    La evolución de las sociedades animales ha sido una recurrente pregunta en biología evolutiva desde que Darwin mismo
+    argumentó que la existencia de individuos estériles en las sociedades de insectos representaba un reto casi 
+    insuperable para su teoría de la selección natural. Las sociedades animales presentan una gran diversidad de
+    organización e historias de vida; igualmente diversas son las teorías que tratan de explicar como la selección 
+    natural lleva a poblaciones de individuos solitarios a la formación de grupos altamente interdependientes. En esta 
+    charla, me enfocaré en dos casos específicos de sociedades animales, las sociedades de insectos y las sociedades de 
+    peces cíclidos con cría cooperativa. Presentaré una serie de modelos matemáticos y computacionales que formalizan 
+    varias teorías sobre el origen de estas sociedades, intentando incluir detalles biológicos relevantes como la 
+    historia de vida y la plasticidad fenotípica. Bajo la luz de los resultados del modelamiento discutiré la relevancia 
+    de factores tradicionalmente considerados importantes como el nivel de parentesco.
 
 ### Marzo 28
 
