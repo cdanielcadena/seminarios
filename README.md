@@ -8,7 +8,7 @@
 ## Primer Semestre de 2019
 ### Enero 24
 
-[Dr. Javier Luque](https://www.researchgate.net/profile/Javier_Luque2), Investigador Postdoctoral. Department of Geology and Geophysics, Yale University.
+[Dr. Javier Luque](https://www.researchgate.net/profile/Javier_Luque2), Investigador Postdoctoral. Department of Geology and Geophysics, Yale University. **"Nuevos crustáceos fósiles de Colombia: un vistazo hacia el pasado"**
 
 ### Enero 31
 
