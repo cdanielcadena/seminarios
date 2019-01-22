@@ -21,9 +21,9 @@
     natural lleva a poblaciones de individuos solitarios a la formación de grupos altamente interdependientes. En esta 
     charla, me enfocaré en dos casos específicos de sociedades animales, las sociedades de insectos y las sociedades de 
     peces cíclidos con cría cooperativa. Presentaré una serie de modelos matemáticos y computacionales que formalizan 
-    varias teorías sobre el origen de estas sociedades, intentando incluir detalles biológicos relevantes como la historia
-    de vida y la plasticidad fenotípica. Bajo la luz de los resultados del modelamiento discutiré la relevancia de 
-    factores tradicionalmente considerados importantes como el nivel de parentesco.
+    varias teorías sobre el origen de estas sociedades, intentando incluir detalles biológicos relevantes como la 
+    historia de vida y la plasticidad fenotípica. Bajo la luz de los resultados del modelamiento discutiré la relevancia 
+    de factores tradicionalmente considerados importantes como el nivel de parentesco.
 
 ### Febrero 7
 
