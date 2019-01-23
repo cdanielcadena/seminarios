@@ -56,7 +56,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 [Dr. David Moore](https://snre.arizona.edu/people/david-moore), Associate Professor. School of Natural Resources and the Environment, University of Arizona. **"Understanding the carbon cycle by combining models and data"**. Contacto: [Eloisa Lasso](mailto:e.lasso@uniandes.edu.co).
 
 ### Abril 4
-[Dr. Rachel Gallery](http://rachelgallery.arizona.edu/), Associate Professor. School of Natural Resources and the Environment, University of Arizona. Contacto: [Eloisa Lasso]
+[Dr. Rachel Gallery](http://rachelgallery.arizona.edu/), Associate Professor. School of Natural Resources and the Environment, University of Arizona. Contacto: [Eloisa Lasso](mailto:e.lasso@uniandes.edu.co).
 
 ### Abril 11
 
