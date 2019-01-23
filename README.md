@@ -57,9 +57,9 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 
     Ecologists now have access to more data than ever before. The study of the carbon cycle draws on information from 
     leaf scale physiology to networks of ecosystem scale eddy covariance observations of carbon exchange, long term 
-    records of forest growth from tree rings, to global satellite observations of vegetation greenness and photosynthesis. 
-    Integrating across scales is challenging but one approach is to develop mathematical models that approximate 
-    ecosystem processes and to combine them with these data to inform how the carbon cycle might respond to the changing
+    records of forest growth from tree rings, to global satellite observations of vegetation greenness and 
+    photosynthesis. Integrating across scales is challenging but one approach is to develop mathematical models 
+    that approximate ecosystem processes and to combine them with these data to inform how the carbon cycle might respond to the changing
     environmental, climatic and atmospheric conditions.
  
 ### Abril 4
