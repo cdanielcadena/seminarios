@@ -58,8 +58,8 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
     leaf scale physiology to networks of ecosystem scale eddy covariance observations of carbon exchange, long term 
     records of forest growth from tree rings, to global satellite observations of vegetation greenness and 
     photosynthesis. Integrating across scales is challenging but one approach is to develop mathematical models 
-    that approximate ecosystem processes and to combine them with these data to inform how the carbon cycle might respond to the
-    changing environmental, climatic and atmospheric conditions.
+    that approximate ecosystem processes and to combine them with these data to inform how the carbon cycle might 
+    respond to the changing environmental, climatic and atmospheric conditions.
  
 ### Abril 4
 [Dr. Rachel Gallery](http://rachelgallery.arizona.edu/), Associate Professor. School of Natural Resources and the Environment, University of Arizona. Contacto: [Eloisa Lasso](mailto:e.lasso@uniandes.edu.co).
