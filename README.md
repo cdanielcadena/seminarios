@@ -70,7 +70,7 @@ Semana Santa. No hay seminario.
 
 ### Mayo 9
 
-Dr. Mary Cecilia Montaño, Universidad de Córdoba. **"Uso de feromonas de insectos para el control de plagas"**. Contacto: [Lorena Castro](mailto:jl.castrom@uniandes.edu.co)
+Dr. Mary Cecilia Montaño, Universidad de Córdoba. **"Uso de feromonas de insectos para el control de plagas"**. Contacto: [Lorena Castro](mailto:jl.castrom@uniandes.edu.co).
 
 
 
