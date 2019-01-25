@@ -21,6 +21,21 @@
 
 [Dr. Maryam Chaib de Mares](https://www.researchgate.net/profile/Maryam_Chaib_De_Mares). **Invertebrados marinos y simbiontes microbianos**. Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
 
+    Las relaciones simbióticas son un factor importante para la diversificación y la evolución de los organismos. 
+    Invertebrados marinos como los corales y las esponjas participan en relaciones entre reinos con simbiontes microbianos. 
+    Estos microorganismos son cruciales para la salud del animal hospedero, proporcionando nutrientes y defensa contra los 
+    patógenos. Sin embargo, es común que estas asociaciones sean de carácter complejo, pues involucran comunidades con 
+    gran abundancia y riqueza de especies microbianas.En este contexto, se hace necesario determinar cuáles son las 
+    especies clave en la asociación, cuáles son los rasgos que permiten estas asociaciones multipartitas y bajo qué 
+    condiciones las relaciones simbióticas devienen inviables. Para responder a estas preguntas, en esta charla me 
+    concentraré en dos sistemas: las esponjas marinas, particularmente del género Aplysina, y los corales escleractinios 
+    (Montipora), en el marco de sus asociaciones con comunidades microbianas pertenecientes a los tres dominios de la 
+    vida. En el primer caso, presentaré un enfoque filogenético para identificar los microorganismos clave en la 
+    asociación simbiótica. Posteriormente, mostraré cómo usé en sinergia datos metagenomas, metatranscriptomas y 
+    metaproteomas para aislar genomas de estos simbiontes in silico y aproximarme a su entendimiento funcional. En 
+    el segundo caso, presentaré los resultados de un proyecto dirigido a evaluar la estabilidad de las interacciones 
+    entre coral y microbios, en condiciones experimentales específicas de estrés antropogénico y ambiental.
+
 ### Febrero 21
 
 Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/maestria-en-ciencias-biologicas) y [doctorado](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/doctorado-en-ciencias-biologia) de la Escuela de Posgrado del Departamento de Ciencias Biológicas. Responsable: [Adriana Bernal](mailto:abernal@uniandes.edu.co).
