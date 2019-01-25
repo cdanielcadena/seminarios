@@ -19,7 +19,7 @@
 
 ### Febrero 14
 
-[Dr. Maryam Chaib de Mares](https://www.researchgate.net/profile/Maryam_Chaib_De_Mares). Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
+[Dr. Maryam Chaib de Mares](https://www.researchgate.net/profile/Maryam_Chaib_De_Mares). **Invertebrados marinos y simbiontes microbianos** Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
 
 ### Febrero 21
 
