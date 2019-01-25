@@ -12,7 +12,7 @@
 
 ### Enero 31
 
-Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/maestria-en-ciencias-biologicas) y [doctorado](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/doctorado-en-ciencias-biologia) de la Escuela de Posgrado del Departamento de Ciencias Biológicas. Responsable: [Adriana Bernal](mailto:abernal@uniandes.edu.co).
+[Dr. Natasha Bloch](http://www.zoology.ubc.ca/mank-lab/Natasha/), Profesora Asistente. Departamento de Ingeniería Biomédica, Universidad de los Andes. **"Neurogenómica de preferencias de apareamiento”**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
 
 ### Febrero 7
 
@@ -23,7 +23,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 
 ### Febrero 21
 
-[Dr. Glenn Seeholzer](https://glennseeholzer.weebly.com/publications.html), Investigador Postdoctoral. American Museum of Natural History & Departamento de Ciencias Biológicas, Universidad de los Andes. **"Clinal variation as a window into the process of speciation in Neotropical birds"**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
+Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/maestria-en-ciencias-biologicas) y [doctorado](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/doctorado-en-ciencias-biologia) de la Escuela de Posgrado del Departamento de Ciencias Biológicas. Responsable: [Adriana Bernal](mailto:abernal@uniandes.edu.co).
 
 ### Febrero 28
 
@@ -65,8 +65,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 [Dr. Rachel Gallery](http://rachelgallery.arizona.edu/), Associate Professor. School of Natural Resources and the Environment, University of Arizona. Contacto: [Eloisa Lasso](mailto:e.lasso@uniandes.edu.co).
 
 ### Abril 11
-
-[Dr. Natasha Bloch](http://www.zoology.ubc.ca/mank-lab/Natasha/), Profesora Asistente. Departamento de Ingeniería Biomédica, Universidad de los Andes. **"Neurogenómica de preferencias de apareamiento”**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
+[Dr. Glenn Seeholzer](https://glennseeholzer.weebly.com/publications.html), Investigador Postdoctoral. American Museum of Natural History & Departamento de Ciencias Biológicas, Universidad de los Andes. **"Clinal variation as a window into the process of speciation in Neotropical birds"**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
 
 ### Abril 18
 
