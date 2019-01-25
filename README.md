@@ -28,13 +28,14 @@
     involucran comunidades con gran abundancia y riqueza de especies microbianas.En este contexto, se hace necesario 
     determinar cuáles son las especies clave en la asociación, cuáles son los rasgos que permiten estas asociaciones 
     multipartitas y bajo qué condiciones las relaciones simbióticas devienen inviables. Para responder a estas preguntas, 
-    en esta charla me concentraré en dos sistemas: las esponjas marinas, particularmente del género *Aplysina*, y los 
-    corales escleractinios (*Montipora*), en el marco de sus asociaciones con comunidades microbianas pertenecientes 
+    en esta charla me concentraré en dos sistemas: las esponjas marinas, particularmente del género Aplysina, y los 
+    corales escleractinios (Montipora), en el marco de sus asociaciones con comunidades microbianas pertenecientes 
     a los tres dominios de la vida. En el primer caso, presentaré un enfoque filogenético para identificar los 
-    microorganismos clave en la asociación simbiótica. Posteriormente, mostraré cómo usé en sinergia datos de metagenomas,
-    metatranscriptomas y metaproteomas para aislar genomas de estos simbiontes in silico y aproximarme a su entendimiento 
-    funcional. En el segundo caso, presentaré los resultados de un proyecto dirigido a evaluar la estabilidad de las 
-    interacciones entre coral y microbios, en condiciones experimentales específicas de estrés antropogénico y ambiental.
+    microorganismos clave en la asociación simbiótica. Posteriormente, mostraré cómo usé en sinergia datos de 
+    metagenomas,metatranscriptomas y metaproteomas para aislar genomas de estos simbiontes in silico y aproximarme a
+    su entendimiento funcional. En el segundo caso, presentaré los resultados de un proyecto dirigido a evaluar la 
+    estabilidad de las interacciones entre coral y microbios, en condiciones experimentales específicas de estrés 
+    antropogénico y ambiental.
 
 ### Febrero 21
 
