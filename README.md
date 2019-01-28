@@ -14,6 +14,14 @@
 
 [Dr. Natasha Bloch](http://www.zoology.ubc.ca/mank-lab/Natasha/), Profesora Asistente. Departamento de Ingeniería Biomédica, Universidad de los Andes. **"Neurogenómica de preferencias de apareamiento”**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
 
+    Entender el comportamiento animal y su evolución requiere entender los mecanismos neuronales de la percepción y 
+    el comportamiento. Me enfoco en el comportamiento de apareamiento en el guppy (Poecilia reticulata), estudiando 
+    la respuesta neurogenómica del cerebro en diferentes contextos de apareamiento. En esta charla voy a presentar 
+    los resultados de un estudio en el que comparamos los cambios de expresión génica en el cerebro de hembras que 
+    evalúan machos de diferentes calidades (atractivos vs no atractivos). Esto me ha permitido identificar varios 
+    grupos de genes que cambian sus niveles de expresión durante la evaluación de un macho, así como los genes que 
+    únicamente se activan cuando una hembra esta en presencia de un macho atractivo, con el que decidiría aparearse.  
+
 ### Febrero 7
 
 
