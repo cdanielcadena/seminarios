@@ -6,10 +6,6 @@
     Contacto: C. Daniel Cadena (ccadena@uniandes.edu.co) o Andrés Link (a.link74@uniandes.edu.co)
 
 ## Primer Semestre de 2019
-### Enero 24
-
-[Dr. Javier Luque](https://www.researchgate.net/profile/Javier_Luque2), Investigador Postdoctoral. Department of Geology and Geophysics, Yale University. **"Nuevos crustáceos fósiles de Colombia: un vistazo hacia el pasado"**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co).
-
 ### Enero 31
 
 [Dr. Natasha Bloch](http://www.zoology.ubc.ca/mank-lab/Natasha/), Profesora Asistente. Departamento de Ingeniería Biomédica, Universidad de los Andes. **"Neurogenómica de preferencias de apareamiento”**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
