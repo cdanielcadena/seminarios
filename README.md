@@ -20,6 +20,7 @@
 
 ### Febrero 7
 
+Dr. Jorge Marco, Investigador Postdoctoral. Facultad de Economía, Universidad de los Andes.
 
 ### Febrero 14
 
