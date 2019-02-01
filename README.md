@@ -22,6 +22,21 @@
 
 Dr. Jorge Marco, Investigador Postdoctoral. Facultad de Economía, Universidad de los Andes. **"Fortalecimiento de la capacidad analítica para apoyar la gestión: indicadores del desempeño de pesquerías"**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co).
 
+
+    Diseñados por investigadores afiliados a la Universidad de Florida, la Universidad de Washington y el Banco Mundial,
+    los Indicadores del Desempeño de Pesquerías (FPI) son una herramienta ampliamente aplicable y flexible para evaluar 
+    el desempeño de pesquerías individuales (artesanales o industriales) y para establecer vínculos entre las 
+    estrategias de gestión y la sostenibilidad del recurso pesquero. Una de las principales ventajas de los FPI es su
+    capacidad para establecer comparaciones significativas entre distintos sistemas de pesca (caracterizados por 
+    diferentes especies, regímenes de manejo y contextos socio-económicos). También pueden utilizarse para establecer
+    comparaciones entre países con recursos biológicos similares. A nivel internacional, la base de datos FPI se ha 
+    ampliado considerablemente en los últimos años. Además, instituciones como el Banco Mundial están utilizando 
+    actualmente los FPI para evaluar el impacto de la reforma de la gestión de la pesca en los países receptores.
+    Más recientemente, los FPI fueron adoptados por el Programa Colaborativo de Medio Ambiente para el Desarrollo (EfD)
+    sobre la Gestión Sostenible de los Recursos Marinos para evaluar un nuevo conjunto de pesquerías en todo el mundo,
+    incluido Colombia. El objetivo de este seminario es introducir la metodología FPI y su potencial tanto para el
+    ámbito académico como para las instituciones relacionadas con el manejo de pesquerías.
+
 ### Febrero 14
 
 [Dr. Maryam Chaib de Mares](https://www.researchgate.net/profile/Maryam_Chaib_De_Mares). **Invertebrados marinos y simbiontes microbianos**. Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
