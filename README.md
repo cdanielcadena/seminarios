@@ -20,7 +20,7 @@
 
 ### Febrero 7
 
-Dr. Jorge Marco, Investigador Postdoctoral. Facultad de Economía, Universidad de los Andes. **"Fortalecimiento de la Capacidad Analítica para Apoyar la Gestión: Indicadores del Desempeño de Pesquerías"**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co)
+Dr. Jorge Marco, Investigador Postdoctoral. Facultad de Economía, Universidad de los Andes. **"Fortalecimiento de la Capacidad Analítica para Apoyar la Gestión: Indicadores del Desempeño de Pesquerías"**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co).
 
 ### Febrero 14
 
