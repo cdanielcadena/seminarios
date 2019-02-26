@@ -63,7 +63,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 
 ### Febrero 28
 
-[Dr. Isabel Natalia Sierra](https://www.researchgate.net/profile/Isabel_Sierra_Garcia). Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
+[Dr. Isabel Natalia Sierra](https://www.researchgate.net/profile/Isabel_Sierra_Garcia). Organización Mind the Microbes y Departamento de Ciencias Básicas, Unidades Tecnológicas de Santander. "**Microbiota y metabolismo en reservorios de petróleo: desde la degradación de hidrocarburos hasta la producción de metano**". Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
 
 ### Marzo 7
 [Dr. Mauricio Santos](https://scholar.google.com/citations?user=RmrmFqoAAAAJ&hl=en), Investigador Postdoctoral. Departamento de Ingeniería Biomédica, Universidad de los Andes. "**A dynamical perspective to malaria and climate in low-transmission regions**". Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
