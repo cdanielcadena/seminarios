@@ -65,6 +65,23 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 
 [Dr. Isabel Natalia Sierra](https://www.researchgate.net/profile/Isabel_Sierra_Garcia). Organización Mind the Microbes y Departamento de Ciencias Básicas, Unidades Tecnológicas de Santander. "**Microbiota y metabolismo en reservorios de petróleo: desde la degradación de hidrocarburos hasta la producción de metano**". Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
 
+
+    Natalia Sierra es graduada en biología (Cum Laude) de la Universidad Industrial de Santander (2008). Con un interés
+    destacado en el área de la microbiología ambiental, Natalia culminó su maestría (2011) y doctorado (2016) en Genética
+    y Biología Molecular en la Universidad Estadual de Campinas (Brazil). Su trabajo de maestría en: “Caracterización 
+    estructural y funcional de genes de degradación de hidrocarburos derivados de metagenoma microbiano de reservorios de
+    petróleo” fue galardonado con el premio nacional “Petrobras Tecnología Engenheiro Antonio Seabra Moggi” (6ta edición).
+    Su trabajo de doctorado involucró el estudio de la diversidad microbiana y de los factores ambientales que inciden en 
+    los procesos de biodegradación en reservorios de petróleo a través de herramientas independientes y dependientes de 
+    cultivo en anaerobiosis. Actualmente es docente del Departamento de Ciencias Básicas de las Unidades Tecnológicas de 
+    Santander y es Co-fundadora de la organización “Mind the Microbes” en donde trabaja para la creación de actividades 
+    de investigación, consultoría y educación en el área de microbiología ambiental aplicada en la resolución de problemas
+    ambientales. En su presentación mostrará los resultados de su investigación de doctorado: “Microbiota y procesos 
+    asociados a la degradación de hidrocarburos en reservorios” que involucra la diversidad taxonómica y funcional 
+    en microorganismos de reservorios de petróleo, así como su potencial para la biodegradación de hidrocarburos y 
+    producción de metano. Igualmente, comentará sobre algunas de las actividades realizadas desde 
+    “Mind the Microbes”.  
+
 ### Marzo 7
 [Dr. Mauricio Santos](https://scholar.google.com/citations?user=RmrmFqoAAAAJ&hl=en), Investigador Postdoctoral. Departamento de Ingeniería Biomédica, Universidad de los Andes. "**A dynamical perspective to malaria and climate in low-transmission regions**". Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
 
