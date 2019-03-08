@@ -115,7 +115,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
     respond to the changing environmental, climatic and atmospheric conditions.
  
 ### Abril 4
-[Dr. Rachel Gallery](http://rachelgallery.arizona.edu/), Associate Professor. School of Natural Resources and the Environment, University of Arizona. Contacto: [Eloisa Lasso](mailto:e.lasso@uniandes.edu.co).
+[Dr. Rachel Gallery](http://rachelgallery.arizona.edu/), Associate Professor. School of Natural Resources and the Environment, University of Arizona. **"Soil microbial responses to wildfires and climate warming: Scaling from microns to watersheds with microbiology and remote sensing tools"** Contacto: [Eloisa Lasso](mailto:e.lasso@uniandes.edu.co).
 
 ### Abril 11
 [Dr. Glenn Seeholzer](https://glennseeholzer.weebly.com/publications.html), Investigador Postdoctoral. American Museum of Natural History & Departamento de Ciencias Biológicas, Universidad de los Andes. **"Clinal variation as a window into the process of speciation in Neotropical birds"**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
