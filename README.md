@@ -117,6 +117,13 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 ### Abril 4
 [Dr. Rachel Gallery](http://rachelgallery.arizona.edu/), Associate Professor. School of Natural Resources and the Environment, University of Arizona. **"Soil microbial responses to wildfires and climate warming: Scaling from microns to watersheds with microbiology and remote sensing tools"** Contacto: [Eloisa Lasso](mailto:e.lasso@uniandes.edu.co).
 
+    The biogeography, ecology, and physiology of microorganisms in soils, their responses to disturbance, and 
+    their interactions with plants are the root cause of uncertainty surrounding ecosystem responses to our changing
+    climate. These plant-microbe feedbacks that ultimately control nutrient transformation and storage in ecosystems 
+    are themselves governed by landscape properties such as topography and disturbance. In this talk I focus on 
+    plant-soil feedbacks in contrasting ecosystems to highlight the use of predictive spatial models to refine 
+    hypotheses regarding the controls of microbial activities in soils. 
+ 
 ### Abril 11
 [Dr. Glenn Seeholzer](https://glennseeholzer.weebly.com/publications.html), Investigador Postdoctoral. American Museum of Natural History & Departamento de Ciencias Biológicas, Universidad de los Andes. **"Clinal variation as a window into the process of speciation in Neotropical birds"**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
 
