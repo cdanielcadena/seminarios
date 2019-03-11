@@ -87,7 +87,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 
 ### Marzo 14
 
-[Dr. Santiago Madriñán](https://botanica.uniandes.edu.co/), Profesor Titular, Departamento de Ciencias Biológicas, Universidad de los Andes.
+[Dr. Santiago Madriñán](https://botanica.uniandes.edu.co/), Profesor Titular, Departamento de Ciencias Biológicas, Universidad de los Andes.**"Jardín Botánico de Cartagena: estación biológica en el Caribe colombiano"**.
 
 ### Marzo 21
 
