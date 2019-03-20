@@ -104,6 +104,10 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
     historia de vida y la plasticidad fenotípica. Bajo la luz de los resultados del modelamiento discutiré la relevancia 
     de factores tradicionalmente considerados importantes como el nivel de parentesco.
 
+### Marzo 26 - Seminario Especial, Salón ML-513, 12 pm
+
+[Dr. César Arias](https://med.uth.edu/internalmedicine/faculty/cesar-a-arias-md-msc-phd/), Professor, McGovern Medical School, University of Texas. **"Targeting a cell membrane adaptation as a novel antimicrobial strategy"**. Contacto: [Adriana Celis](mailto:acelis@uniandes.edu.co).
+
 ### Marzo 28
 [Dr. David Moore](https://snre.arizona.edu/people/david-moore), Associate Professor. School of Natural Resources and the Environment, University of Arizona. **"Understanding the carbon cycle by combining models and data"**. Contacto: [Eloisa Lasso](mailto:e.lasso@uniandes.edu.co).
 
