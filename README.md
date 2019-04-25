@@ -141,6 +141,8 @@ Semana Santa. No hay seminario.
 
 ### Mayo 2
 
+Dr. Catalina Suarez. Investigadora, Museo de la Plata (Argentina) y Museo Geológico Nacional José Royo y Gomez, Servicio Geológico Colombiano. **"Depredadores del Mioceno en Colombia: los esparasodontes de La Venta"**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+
 ### Mayo 9
 
 Dr. Mary Cecilia Montaño, Universidad de Córdoba. **"Uso de feromonas de insectos para el control de plagas"**. Contacto: [Lorena Castro](mailto:jl.castrom@uniandes.edu.co).
