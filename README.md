@@ -145,4 +145,4 @@ Dr. Catalina Suarez. Investigadora, Museo de la Plata (Argentina) y Museo Geoló
 
 ### Mayo 9
 
-Dr. Mary Cecilia Montaño, Universidad de Córdoba. **"Uso de feromonas de insectos para el control de plagas"**. Contacto: [Lorena Castro](mailto:jl.castrom@uniandes.edu.co).
+Dr. María Adelaida Fernández, Coordinadora del Programa Nacional en Colombia de Earth Innovation Institute. **"De la Biología al Desarrollo Sostenible"**. Contacto: [Susana Caballero](mailto:sj.caballero26@uniandes.edu.co).
