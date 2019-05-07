@@ -145,4 +145,4 @@ Dr. Catalina Suarez. Investigadora, Museo de la Plata (Argentina) y Museo Geoló
 
 ### Mayo 9
 
-Dr. María Adelaida Fernández, Coordinadora del Programa Nacional en Colombia de Earth Innovation Institute. **"De la Biología al Desarrollo Sostenible"**. Contacto: [Susana Caballero](mailto:sj.caballero26@uniandes.edu.co).
+[Dr. María Adelaida Fernández](https://earthinnovation.org/about/staff/maria-adelaida-fernandez-munoz/), Coordinadora del Programa Nacional en Colombia de Earth Innovation Institute. **"De la Biología al Desarrollo Sostenible"**. Contacto: [Susana Caballero](mailto:sj.caballero26@uniandes.edu.co).
