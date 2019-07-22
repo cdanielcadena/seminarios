@@ -8,8 +8,42 @@
 ## Segundo Semestre de 2019
 ### Agosto 8
 
-[Dr. Anthony Di Fiore.](https://liberalarts.utexas.edu/anthropology/faculty/ad26693).Department of Anthropology, University of Texas at Austin. **"TBA"**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+[Dr. Anthony Di Fiore](https://liberalarts.utexas.edu/anthropology/faculty/ad26693).Department of Anthropology, University of Texas at Austin. **"TBA"**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
 
+### Agosto 15
+
+### Agosto 22
+
+### Agosto 29
+[Dr. Adrian Turjanksi] Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+
+### Septiembre 5
+
+### Septiembre 12
+
+### Septiembre 19
+[Dr. Josef Razinger] Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+
+### Septiembre 26
+
+### Octubre 3
+
+### Octubre 10
+
+### Octubre 17
+
+### Octubre 24
+
+### Octubre 31
+
+### Noviembre 7
+
+### Noviembre 14
+[Dr. Daniel Huson] Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+
+### Noviembre 21
+
+### Noviembre 28
 
 ----------------
 
