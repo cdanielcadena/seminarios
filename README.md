@@ -5,6 +5,14 @@
     Entrada Libre
     Contacto: C. Daniel Cadena (ccadena@uniandes.edu.co) o Andrés Link (a.link74@uniandes.edu.co)
 
+## Segundo Semestre de 2019
+### Agosto 8
+
+[Dr. Anthony Di Fiore.](https://liberalarts.utexas.edu/anthropology/faculty/ad26693).Department of Anthropology, University of Texas at Austin. **"TBA"**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+
+
+----------------
+
 ## Primer Semestre de 2019
 ### Enero 31
 
