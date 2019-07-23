@@ -8,7 +8,7 @@
 ## Segundo Semestre de 2019
 ### Agosto 8
 
-[Dr. Anthony Di Fiore](https://liberalarts.utexas.edu/anthropology/faculty/ad26693), Professor, Department of Anthropology, University of Texas at Austin. **"TBA"**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+[Dr. Anthony Di Fiore](https://liberalarts.utexas.edu/anthropology/faculty/ad26693), Professor, Department of Anthropology, University of Texas at Austin. **"Comportamiento social de los primates atelinos en la Amazonia occidental de Ecuador"**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
 
 ### Agosto 15
 
