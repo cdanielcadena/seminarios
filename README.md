@@ -8,14 +8,14 @@
 ## Segundo Semestre de 2019
 ### Agosto 8
 
-[Dr. Anthony Di Fiore](https://liberalarts.utexas.edu/anthropology/faculty/ad26693), Professor, Department of Anthropology, University of Texas at Austin. **"Comportamiento social de los primates atelinos en la Amazonia occidental de Ecuador"**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+[Anthony Di Fiore](https://liberalarts.utexas.edu/anthropology/faculty/ad26693), Professor, Department of Anthropology, University of Texas at Austin. **"Comportamiento social de los primates atelinos en la Amazonia occidental de Ecuador"**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
 
 ### Agosto 15
 
 ### Agosto 22
 
 ### Agosto 29
-[Dr. Adrian Turjanksi] Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+[Adrian Turjanksi] Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
 
 ### Septiembre 5
 
@@ -24,7 +24,7 @@
 ### Septiembre 12
 
 ### Septiembre 19
-[Dr. Josef Razinger] Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+[Josef Razinger] Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
 
 ### Septiembre 26
 
@@ -41,7 +41,7 @@
 ### Noviembre 7
 
 ### Noviembre 14
-[Dr. Daniel Huson] Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+[Daniel Huson] Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
 
 ### Noviembre 21
 
@@ -52,7 +52,7 @@
 ## Primer Semestre de 2019
 ### Enero 31
 
-[Dr. Natasha Bloch](http://www.zoology.ubc.ca/mank-lab/Natasha/), Profesora Asistente. Departamento de Ingeniería Biomédica, Universidad de los Andes. **"Neurogenómica de preferencias de apareamiento”**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
+[Natasha Bloch](http://www.zoology.ubc.ca/mank-lab/Natasha/), Profesora Asistente. Departamento de Ingeniería Biomédica, Universidad de los Andes. **"Neurogenómica de preferencias de apareamiento”**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
 
     Entender el comportamiento animal y su evolución requiere entender los mecanismos neuronales de la percepción y 
     el comportamiento. Me enfoco en el comportamiento de apareamiento en el guppy (Poecilia reticulata), estudiando 
@@ -64,7 +64,7 @@
 
 ### Febrero 7
 
-Dr. Jorge Marco, Investigador Postdoctoral. Facultad de Economía, Universidad de los Andes. **"Fortalecimiento de la capacidad analítica para apoyar la gestión: indicadores del desempeño de pesquerías"**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co).
+Jorge Marco, Investigador Postdoctoral. Facultad de Economía, Universidad de los Andes. **"Fortalecimiento de la capacidad analítica para apoyar la gestión: indicadores del desempeño de pesquerías"**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co).
 
 
     Diseñados por investigadores afiliados a la Universidad de Florida, la Universidad de Washington y el Banco Mundial,
@@ -83,7 +83,7 @@ Dr. Jorge Marco, Investigador Postdoctoral. Facultad de Economía, Universidad d
 
 ### Febrero 14
 
-[Dr. Maryam Chaib de Mares](https://www.researchgate.net/profile/Maryam_Chaib_De_Mares). **Invertebrados marinos y simbiontes microbianos**. Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
+[Maryam Chaib de Mares](https://www.researchgate.net/profile/Maryam_Chaib_De_Mares). **Invertebrados marinos y simbiontes microbianos**. Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
 
     Las relaciones simbióticas son un factor importante para la diversificación y la evolución de los organismos. 
     Invertebrados marinos como los corales y las esponjas participan en relaciones entre reinos con simbiontes 
@@ -107,7 +107,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 
 ### Febrero 28
 
-[Dr. Isabel Natalia Sierra](https://www.researchgate.net/profile/Isabel_Sierra_Garcia). Organización Mind the Microbes y Departamento de Ciencias Básicas, Unidades Tecnológicas de Santander. "**Microbiota y metabolismo en reservorios de petróleo: desde la degradación de hidrocarburos hasta la producción de metano**". Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
+[Isabel Natalia Sierra](https://www.researchgate.net/profile/Isabel_Sierra_Garcia). Organización Mind the Microbes y Departamento de Ciencias Básicas, Unidades Tecnológicas de Santander. "**Microbiota y metabolismo en reservorios de petróleo: desde la degradación de hidrocarburos hasta la producción de metano**". Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
 
 
     Natalia Sierra es graduada en biología (Cum Laude) de la Universidad Industrial de Santander (2008). Con un interés
@@ -127,15 +127,15 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
     realizadas desde “Mind the Microbes”.  
 
 ### Marzo 7
-[Dr. Mauricio Santos](https://scholar.google.com/citations?user=RmrmFqoAAAAJ&hl=en), Investigador Postdoctoral. Departamento de Ingeniería Biomédica, Universidad de los Andes. "**A dynamical perspective to malaria and climate in low-transmission regions**". Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
+[Mauricio Santos](https://scholar.google.com/citations?user=RmrmFqoAAAAJ&hl=en), Investigador Postdoctoral. Departamento de Ingeniería Biomédica, Universidad de los Andes. "**A dynamical perspective to malaria and climate in low-transmission regions**". Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
 
 ### Marzo 14
 
-[Dr. Santiago Madriñán](https://botanica.uniandes.edu.co/), Profesor Titular, Departamento de Ciencias Biológicas, Universidad de los Andes.**"Jardín Botánico de Cartagena: estación biológica en el Caribe colombiano"**.
+[Santiago Madriñán](https://botanica.uniandes.edu.co/), Profesor Titular, Departamento de Ciencias Biológicas, Universidad de los Andes.**"Jardín Botánico de Cartagena: estación biológica en el Caribe colombiano"**.
 
 ### Marzo 21
 
-[Dr. Andrés Quiñones](http://www.andres-quinones.com/), Investigador Postdoctoral. Departamento de Ciencias Biológicas, Universidad de los Andes. **"El rol de la plasticidad fenotípica y la historia de vida en la evolución de las sociedades animales: teorías inspiradas en sociedades de peces e insectos"** Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
+[Andrés Quiñones](http://www.andres-quinones.com/), Investigador Postdoctoral. Departamento de Ciencias Biológicas, Universidad de los Andes. **"El rol de la plasticidad fenotípica y la historia de vida en la evolución de las sociedades animales: teorías inspiradas en sociedades de peces e insectos"** Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
     La evolución de las sociedades animales ha sido una recurrente pregunta en biología evolutiva desde que Darwin mismo
     argumentó que la existencia de individuos estériles en las sociedades de insectos representaba un reto casi 
@@ -150,10 +150,10 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 
 ### Marzo 26 - Seminario Especial, Salón ML-513, 12 pm
 
-[Dr. César Arias](https://med.uth.edu/internalmedicine/faculty/cesar-a-arias-md-msc-phd/), Professor, McGovern Medical School, University of Texas. **"Targeting a cell membrane adaptation as a novel antimicrobial strategy"**. Contacto: [Adriana Celis](mailto:acelis@uniandes.edu.co).
+[César Arias](https://med.uth.edu/internalmedicine/faculty/cesar-a-arias-md-msc-phd/), Professor, McGovern Medical School, University of Texas. **"Targeting a cell membrane adaptation as a novel antimicrobial strategy"**. Contacto: [Adriana Celis](mailto:acelis@uniandes.edu.co).
 
 ### Marzo 28
-[Dr. David Moore](https://snre.arizona.edu/people/david-moore), Associate Professor. School of Natural Resources and the Environment, University of Arizona. **"Understanding the carbon cycle by combining models and data"**. Contacto: [Eloisa Lasso](mailto:e.lasso@uniandes.edu.co).
+[David Moore](https://snre.arizona.edu/people/david-moore), Associate Professor. School of Natural Resources and the Environment, University of Arizona. **"Understanding the carbon cycle by combining models and data"**. Contacto: [Eloisa Lasso](mailto:e.lasso@uniandes.edu.co).
 
     Ecologists now have access to more data than ever before. The study of the carbon cycle draws on information from 
     leaf scale physiology to networks of ecosystem scale eddy covariance observations of carbon exchange, long term 
@@ -163,7 +163,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
     respond to the changing environmental, climatic and atmospheric conditions.
  
 ### Abril 4
-[Dr. Rachel Gallery](http://rachelgallery.arizona.edu/), Associate Professor. School of Natural Resources and the Environment, University of Arizona. **"Soil microbial responses to wildfires and climate warming: Scaling from microns to watersheds with microbiology and remote sensing tools"** Contacto: [Eloisa Lasso](mailto:e.lasso@uniandes.edu.co).
+[Rachel Gallery](http://rachelgallery.arizona.edu/), Associate Professor. School of Natural Resources and the Environment, University of Arizona. **"Soil microbial responses to wildfires and climate warming: Scaling from microns to watersheds with microbiology and remote sensing tools"** Contacto: [Eloisa Lasso](mailto:e.lasso@uniandes.edu.co).
 
     The biogeography, ecology, and physiology of microorganisms in soils, their responses to disturbance, and 
     their interactions with plants are the root cause of uncertainty surrounding ecosystem responses to our changing
@@ -173,7 +173,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
     hypotheses regarding the controls of microbial activities in soils. 
  
 ### Abril 11
-[Dr. Glenn Seeholzer](https://glennseeholzer.weebly.com/publications.html), Investigador Postdoctoral. American Museum of Natural History & Departamento de Ciencias Biológicas, Universidad de los Andes. **"Clinal variation as a window into the process of speciation in Neotropical birds"**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
+[Glenn Seeholzer](https://glennseeholzer.weebly.com/publications.html), Investigador Postdoctoral. American Museum of Natural History & Departamento de Ciencias Biológicas, Universidad de los Andes. **"Clinal variation as a window into the process of speciation in Neotropical birds"**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
 
 ### Abril 18
 
@@ -181,12 +181,12 @@ Semana Santa. No hay seminario.
 
 ### Abril 25
 
-[Dr. Juan Pablo Jaramillo](http://web.ecologia.unam.mx/index.php/investigadores/juan-pablo-jaramillo), Investigador Titular. Instituto de Ecología, Universidad Nacional Autónoma de México.**"Adaptándose al (sub)trópico: evolución reticulada y especiación en coníferas mexicanas".** Contacto: [Susana Caballero](mailto:sj.caballero26@uniandes.edu.co).
+[Juan Pablo Jaramillo](http://web.ecologia.unam.mx/index.php/investigadores/juan-pablo-jaramillo), Investigador Titular. Instituto de Ecología, Universidad Nacional Autónoma de México.**"Adaptándose al (sub)trópico: evolución reticulada y especiación en coníferas mexicanas".** Contacto: [Susana Caballero](mailto:sj.caballero26@uniandes.edu.co).
 
 ### Mayo 2
 
-Dr. Catalina Suarez. Investigadora, Museo de la Plata (Argentina) y Museo Geológico Nacional José Royo y Gomez, Servicio Geológico Colombiano. **"Depredadores del Mioceno en Colombia: los esparasodontes de La Venta"**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+Catalina Suárez. Investigadora, Museo de la Plata (Argentina) y Museo Geológico Nacional José Royo y Gomez, Servicio Geológico Colombiano. **"Depredadores del Mioceno en Colombia: los esparasodontes de La Venta"**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
 
 ### Mayo 9
 
-[Dr. María Adelaida Fernández](https://earthinnovation.org/about/staff/maria-adelaida-fernandez-munoz/), Coordinadora del Programa Nacional en Colombia de Earth Innovation Institute. **"De la Biología al Desarrollo Sostenible"**. Contacto: [Susana Caballero](mailto:sj.caballero26@uniandes.edu.co).
+[María Adelaida Fernández](https://earthinnovation.org/about/staff/maria-adelaida-fernandez-munoz/), Coordinadora del Programa Nacional en Colombia de Earth Innovation Institute. **"De la Biología al Desarrollo Sostenible"**. Contacto: [Susana Caballero](mailto:sj.caballero26@uniandes.edu.co).
