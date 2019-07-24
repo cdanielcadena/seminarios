@@ -19,6 +19,8 @@
 
 ### Septiembre 5
 
+[Felipe Castro](https://cods.uniandes.edu.co/equipo/), Subdirector, Centro de los Objetivos de Desarrollo Sostenible para América Latina. **"El rol de la academia en la Agenda 2030 y los Objetivos de Desarrollo Sostenible"**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
+
 ### Septiembre 12
 
 ### Septiembre 19
