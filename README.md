@@ -64,7 +64,7 @@
 
 ### Febrero 7
 
-Jorge Marco, Investigador Postdoctoral. Facultad de Economía, Universidad de los Andes. **"Fortalecimiento de la capacidad analítica para apoyar la gestión: indicadores del desempeño de pesquerías"**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co).
+**Jorge Marco**, Investigador Postdoctoral. Facultad de Economía, Universidad de los Andes. **"Fortalecimiento de la capacidad analítica para apoyar la gestión: indicadores del desempeño de pesquerías"**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co).
 
 
     Diseñados por investigadores afiliados a la Universidad de Florida, la Universidad de Washington y el Banco Mundial,
@@ -185,7 +185,7 @@ Semana Santa. No hay seminario.
 
 ### Mayo 2
 
-Catalina Suárez. Investigadora, Museo de la Plata (Argentina) y Museo Geológico Nacional José Royo y Gomez, Servicio Geológico Colombiano. **"Depredadores del Mioceno en Colombia: los esparasodontes de La Venta"**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+**Catalina Suárez**. Investigadora, Museo de la Plata (Argentina) y Museo Geológico Nacional José Royo y Gomez, Servicio Geológico Colombiano. **"Depredadores del Mioceno en Colombia: los esparasodontes de La Venta"**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
 
 ### Mayo 9
 
