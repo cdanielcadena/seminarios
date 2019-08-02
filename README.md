@@ -12,6 +12,8 @@
 
 ### Agosto 15
 
+Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/maestria-en-ciencias-biologicas) y [doctorado](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/doctorado-en-ciencias-biologia) de la Escuela de Posgrado del Departamento de Ciencias Biológicas. Responsable: [Adriana Bernal](mailto:abernal@uniandes.edu.co).
+
 ### Agosto 22
 
 ### Agosto 29
