@@ -26,7 +26,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 ### Septiembre 12
 
 ### Septiembre 19
-[Josef Razinger y Kai Kristoffer]( https://www.imr.no/en), Institute of Marine Research. **Omics in food and feed safety research**. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+[Josef Rasinger y Kai Kristoffer]( https://www.imr.no/en), Institute of Marine Research. **Omics in food and feed safety research**. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
 
         We will present and discuss food and feed safety research currently performed at the Institute of Marine 
     Research (IMR) in Norway. We will provide an overview of the challenges regulatory scientists face when using
