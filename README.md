@@ -26,7 +26,28 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 ### Septiembre 12
 
 ### Septiembre 19
-[Josef Razinger] Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+[Josef Razinger y Kai Kristoffer]( https://www.imr.no/en), Institute of Marine Research. **Omics in food and feed safety research**. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+
+        We will present and discuss food and feed safety research currently performed at the Institute of Marine 
+    Research (IMR) in Norway. We will provide an overview of the challenges regulatory scientists face when using
+    omics and bioinformatics in research bridging basic science, legislation and public health. Furthermore, using
+    ongoing projects as examples, we will discuss how the advancement of research at the intersection of 
+    computational-experimental studies furthers our mechanistic understanding of biological systems and contributes 
+    to the regulatory protection of marine food chains under rapidly changing conditions. We also will show how 
+    multi-level omics and bioinformatics can be used to combat non-compliances and fraud in fishery and aquaculture 
+    and contribute to state-of-the-art feed and food safety risk assessments.
+        The Institute of Marine Research (IMR), is one of the largest marine research institutes in Europe.  
+    Approximately 1,000 employees are working at five different locations across Norway. The IMR owns and operates
+    six research vessels and a wide range of research facilities and laboratories of high international standard. 
+    Work at the IMR focuses on research, advisory work and monitoring. The IMR supplies knowledge relating to the 
+    sustainable management of the resources in marine ecosystems, both nationally and internationally, and the whole
+    food chain from the sea to the table. This includes the marine environment, fish nutrition, and safe and 
+    nutritious sea food.
+        Dr Josef D. Rasinger, a nutritional toxicologist, and Dr Kai K. Lie, an ecotoxicologist, work on multi-level 
+    omics analyses that combine gene expression profiles (transcriptomes), protein profiles (proteomes), and small 
+    molecule metabolite profiles (metabolomes). Both scientists have a background in toxicology and omics data 
+    analytics and a keen interest in the application and implementation of molecular, bio-statistical and 
+    bioinformatics tools for food and feed safety research.    
 
 ### Septiembre 26
 
