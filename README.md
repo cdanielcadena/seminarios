@@ -36,7 +36,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
     to the regulatory protection of marine food chains under rapidly changing conditions. We also will show how 
     multi-level omics and bioinformatics can be used to combat non-compliances and fraud in fishery and aquaculture 
     and contribute to state-of-the-art feed and food safety risk assessments.
-        The Institute of Marine Research (IMR), is one of the largest marine research institutes in Europe.  
+        The Institute of Marine Research (IMR) is one of the largest marine research institutes in Europe.  
     Approximately 1,000 employees are working at five different locations across Norway. The IMR owns and operates
     six research vessels and a wide range of research facilities and laboratories of high international standard. 
     Work at the IMR focuses on research, advisory work and monitoring. The IMR supplies knowledge relating to the 
