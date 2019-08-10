@@ -26,7 +26,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 ### Septiembre 12
 
 ### Septiembre 19
-[Josef Rasinger y Kai Kristoffer]( https://www.imr.no/en), Institute of Marine Research. **Omics in food and feed safety research**. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+[Josef Rasinger y Kai Kristoffer](https://www.imr.no/en), Institute of Marine Research. **Omics in food and feed safety research**. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
 
         We will present and discuss food and feed safety research currently performed at the Institute of Marine 
     Research (IMR) in Norway. We will provide an overview of the challenges regulatory scientists face when using
@@ -50,6 +50,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
     bioinformatics tools for food and feed safety research.    
 
 ### Septiembre 26
+[Kenneth Poss](https://www.cellbio.duke.edu/kenneth-d-poss), Professor, Department of Cell Biology, Duke University School of Medicine. Conferencista invitado especial por estudiantes de posgrado del Departamento de Ciencias Biológicas.  Contacto: [Lucía Uribe](mailto:lc.uribe@uniandes.edu.co)
 
 ### Octubre 3
 
