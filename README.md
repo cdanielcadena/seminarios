@@ -17,7 +17,22 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 ### Agosto 22
 
 ### Agosto 29
-[Adrian Turjanksi] Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+[Adrian Turjanksi](http://www.iquibicen.fcen.uba.ar/investigador/adrian-turjanski-2/), Profesor Departamento de Química Biologica, Universidad de Buenos Aires e Investigador Conicet. **Translational bioinformatics: From genomes to disease diagnosis in the clinic.**. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+
+        Recent advances in genome sequencing, delivering data cheaper and faster every year, together with new bioinformatics
+        algorithms, artificial intelligence, and big data promise a new era of personalized medicine. As the DNA of more 
+        and more people is being obtained the bottleneck for a truly genomics era in healthcare is that this vast amount 
+        of data needs to be transformed into valuable information. Translational bioinformatics is a key field that needs
+        to be developed and implemented to have reliable storage, analytic and interpretive methods to optimize the
+        transformation of genomic data, into proactive, predictive, preventive, and participatory health. In this talk, 
+        I will describe our efforts in developing a bioinformatics platform to analyze patients genomics information in
+        the clinic. We have implemented a fully web-based solution that goes from the Fastq sequences to the prediction
+        of Single Nucleotide Polymorphisms(SNP) effect. As understanding the functional effects of SNPs and their relation
+        to disease development is a major issue in clinical genomics I will explain our recently developed VarQ Web Server
+        that automatically analyzes SNPs for their effect on protein activity, folding, aggregation and protein interactions
+        among others  I will comment on the application of our bioinformatic solution to several cases of rare disease 
+        diagnosis that were performed in the context of a large collaboration between my group, hospitals, and companies
+        in the context of the Argentinian presición medicine initiative.
 
 ### Septiembre 5
 
