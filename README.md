@@ -12,10 +12,10 @@
 
 ### Agosto 15
 
-Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/maestria-en-ciencias-biologicas) y [doctorado](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/doctorado-en-ciencias-biologia) de la Escuela de Posgrado del Departamento de Ciencias Biológicas. Responsable: [Adriana Bernal](mailto:abernal@uniandes.edu.co).
+Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/maestria-en-ciencias-biologicas) y [doctorado](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/doctorado-en-ciencias-biologia) de la Escuela de Posgrado del Departamento de Ciencias Biológicas. Responsable: [Adriana Bernal](mailto:abernal@uniandes.edu.co)
 
 ### Agosto 22
-[Romain Guyot](https://www.ird.fr), Director de Investigación en Genomica, Evolución y Bioinformática, Instituto de Investigación para el Desarrollo, Montpellier. **Los genes voladores: introducción y desafíos de los análisis de elementos transponibles en plantas**. Contacto: [Silvia Restrepo](mailto:srestrep@uniandes.edu.co)
+[Romain Guyot](https://www.ird.fr), Director de Investigación en Genómica, Evolución y Bioinformática, Instituto de Investigación para el Desarrollo, Montpellier. **Los genes voladores: introducción y desafíos de los análisis de elementos transponibles en plantas**. Contacto: [Silvia Restrepo](mailto:srestrep@uniandes.edu.co)
 
 ### Agosto 29
 [Adrian Turjanksi](http://www.iquibicen.fcen.uba.ar/investigador/adrian-turjanski-2/), Profesor Departamento de Química Biológica, Universidad de Buenos Aires e Investigador Conicet. **Translational bioinformatics: From genomes to disease diagnosis in the clinic.** Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
