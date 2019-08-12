@@ -17,7 +17,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 ### Agosto 22
 
 ### Agosto 29
-[Adrian Turjanksi](http://www.iquibicen.fcen.uba.ar/investigador/adrian-turjanski-2/), Profesor Departamento de Química Biologica, Universidad de Buenos Aires e Investigador Conicet. **Translational bioinformatics: From genomes to disease diagnosis in the clinic.**. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+[Adrian Turjanksi](http://www.iquibicen.fcen.uba.ar/investigador/adrian-turjanski-2/), Profesor Departamento de Química Biológica, Universidad de Buenos Aires e Investigador Conicet. **Translational bioinformatics: From genomes to disease diagnosis in the clinic.** Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
 
         Recent advances in genome sequencing, delivering data cheaper and faster every year, together with new bioinformatics
         algorithms, artificial intelligence, and big data promise a new era of personalized medicine. As the DNA of more 
