@@ -1,7 +1,7 @@
 # Seminario del Departamento de Ciencias Biológicas, Universidad de los Andes
 
     Jueves, 12:30 a 1:20 pm.
-    Salón ML 606
+    Salón SD 802
     Entrada Libre
     Contacto: C. Daniel Cadena (ccadena@uniandes.edu.co) o Andrés Link (a.link74@uniandes.edu.co)
 
