@@ -70,7 +70,10 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 
 ### Octubre 3
 
+Semana de Receso.
+
 ### Octubre 10
+[Catalina Gonzalez](https://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb?id=80), Profesora Asociada, Departamento de Ciencias Biológicas, Universidad de los Andes.
 
 ### Octubre 17
 
