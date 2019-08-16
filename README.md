@@ -73,7 +73,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 Semana de Receso.
 
 ### Octubre 10
-[Catalina Gonzalez](https://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb?id=80), Profesora Asociada, Departamento de Ciencias Biológicas, Universidad de los Andes.
+[Catalina Gonzalez](https://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb?id=80), Profesora Asociada, Departamento de Ciencias Biológicas, Universidad de los Andes.**“Volcanes, diversidad y gente durante los últimos 10000 años en los Andes tropicales**.
 
 ### Octubre 17
 
