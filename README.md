@@ -41,6 +41,8 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 
 ### Septiembre 12
 
+German Enciso. Contacto: [Jorge Molina](mailto:jmolina@uniandes.edu.co)
+
 ### Septiembre 19
 [Josef Rasinger y Kai Kristoffer](https://www.imr.no/en), Institute of Marine Research. **Omics in food and feed safety research**. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
 
@@ -82,6 +84,8 @@ Semana de Receso.
 ### Octubre 31
 
 ### Noviembre 7
+
+Liliana Ballesteros, Investigadora Postdoctoral, Muséum National d'Histoire Naturelle, Paris. Contacto: [Camila Gonzalez](mailto:c.gonzalez2592@uniandes.edu.co)
 
 ### Noviembre 14
 [Daniel Huson] Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
