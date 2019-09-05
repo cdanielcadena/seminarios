@@ -40,7 +40,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 [Felipe Castro](https://cods.uniandes.edu.co/equipo/), Subdirector, Centro de los Objetivos de Desarrollo Sostenible para América Latina. **"El rol de la academia en la Agenda 2030 y los Objetivos de Desarrollo Sostenible"**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
 ### Septiembre 12
-[German Enciso](https://www.math.uci.edu/~genciso/), Professor, Mathematics Department and Department of Developmental and Cell Biology, University of California at Irvine. **Matemáticas aplicadas a la Biologia Celular"**. Contacto: [Jorge Molina](mailto:jmolina@uniandes.edu.co)
+[German Enciso](https://www.math.uci.edu/~genciso/), Professor, Mathematics Department and Department of Developmental and Cell Biology, University of California at Irvine. **"Matemáticas aplicadas a la Biologia Celular"**. Contacto: [Jorge Molina](mailto:jmolina@uniandes.edu.co)
 
 ### Septiembre 19
 [Josef Rasinger y Kai Kristoffer](https://www.imr.no/en), Institute of Marine Research. **Omics in food and feed safety research**. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
