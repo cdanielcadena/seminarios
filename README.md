@@ -42,6 +42,11 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 ### Septiembre 12
 [German Enciso](https://www.math.uci.edu/~genciso/), Professor, Mathematics Department and Department of Developmental and Cell Biology, University of California at Irvine. **"Matemáticas aplicadas a la Biologia Celular"**. Contacto: [Jorge Molina](mailto:jmolina@uniandes.edu.co)
 
+        En esta charla se describirán algunos de los usos más importantes de las matemáticas en la biología
+        moderna, especialmente en biología celular y molecular.  Se presentarán varios ejemplos de modelos 
+        matemáticos y el análisis cuantitativo de problemas en biología. La charla finaliza con una 
+        colaboración reciente en el estudio de la toma de decisiones en la bacteria Chlamydia trachomatis.
+
 ### Septiembre 19
 [Josef Rasinger y Kai Kristoffer](https://www.imr.no/en), Institute of Marine Research. **Omics in food and feed safety research**. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
 
