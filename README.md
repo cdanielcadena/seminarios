@@ -72,7 +72,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
     bioinformatics tools for food and feed safety research.    
 
 ### Septiembre 26
-[Kenneth Poss](https://www.cellbio.duke.edu/kenneth-d-poss), Professor, Department of Cell Biology, Duke University School of Medicine. Conferencista invitado especial por estudiantes de posgrado del Departamento de Ciencias Biológicas. **Visualizing and dissecting tissue regeneration in zebrafish**. Contacto: [Lucía Uribe](mailto:lc.uribe@uniandes.edu.co)
+[Kenneth Poss](https://www.cellbio.duke.edu/kenneth-d-poss), Professor, Department of Cell Biology, Duke University School of Medicine. **Visualizing and dissecting tissue regeneration in zebrafish**. Conferencista invitado por estudiantes de posgrado del Departamento de Ciencias Biológicas. Contacto: [Lucía Uribe](mailto:lc.uribe@uniandes.edu.co)
 
         My primary research goal is to understand mechanisms of vertebrate tissue regeneration. We study 
         regeneration of cardiac muscle, spinal cord, and major appendages in zebrafish, which possess especially
