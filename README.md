@@ -8,7 +8,7 @@
 ## Segundo Semestre de 2019
 ### Agosto 8
 
-[Anthony Di Fiore](https://liberalarts.utexas.edu/anthropology/faculty/ad26693), Professor, Department of Anthropology, University of Texas at Austin. **"Comportamiento social de los primates atelinos en la Amazonia occidental de Ecuador"**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+[Anthony Di Fiore](https://liberalarts.utexas.edu/anthropology/faculty/ad26693), Professor, Department of Anthropology, University of Texas at Austin. **Comportamiento social de los primates atelinos en la Amazonia occidental de Ecuador**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
 
 ### Agosto 15
 
@@ -37,10 +37,10 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
         the Argentinian presición medicine initiative.
 
 ### Septiembre 5
-[Felipe Castro](https://cods.uniandes.edu.co/equipo/), Subdirector, Centro de los Objetivos de Desarrollo Sostenible para América Latina. **"El rol de la academia en la Agenda 2030 y los Objetivos de Desarrollo Sostenible"**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
+[Felipe Castro](https://cods.uniandes.edu.co/equipo/), Subdirector, Centro de los Objetivos de Desarrollo Sostenible para América Latina. **El rol de la academia en la Agenda 2030 y los Objetivos de Desarrollo Sostenible**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
 ### Septiembre 12
-[German Enciso](https://www.math.uci.edu/~genciso/), Professor, Mathematics Department and Department of Developmental and Cell Biology, University of California at Irvine. **"Matemáticas aplicadas a la Biología Celular"**. Contacto: [Jorge Molina](mailto:jmolina@uniandes.edu.co)
+[German Enciso](https://www.math.uci.edu/~genciso/), Professor, Mathematics Department and Department of Developmental and Cell Biology, University of California at Irvine. **Matemáticas aplicadas a la biología celular**. Contacto: [Jorge Molina](mailto:jmolina@uniandes.edu.co)
 
         En esta charla se describirán algunos de los usos más importantes de las matemáticas en la biología
         moderna, especialmente en biología celular y molecular.  Se presentarán varios ejemplos de modelos 
@@ -72,7 +72,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
     bioinformatics tools for food and feed safety research.    
 
 ### Septiembre 26
-[Kenneth Poss](https://www.cellbio.duke.edu/kenneth-d-poss), Professor, Department of Cell Biology, Duke University School of Medicine. Conferencista invitado especial por estudiantes de posgrado del Departamento de Ciencias Biológicas. **Visualizing and dissecting tissue regeneration in zebrafish”**. Contacto: [Lucía Uribe](mailto:lc.uribe@uniandes.edu.co)
+[Kenneth Poss](https://www.cellbio.duke.edu/kenneth-d-poss), Professor, Department of Cell Biology, Duke University School of Medicine. Conferencista invitado especial por estudiantes de posgrado del Departamento de Ciencias Biológicas. **Visualizing and dissecting tissue regeneration in zebrafish**. Contacto: [Lucía Uribe](mailto:lc.uribe@uniandes.edu.co)
 
         My primary research goal is to understand mechanisms of vertebrate tissue regeneration. We study 
         regeneration of cardiac muscle, spinal cord, and major appendages in zebrafish, which possess especially
