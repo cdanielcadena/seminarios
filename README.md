@@ -96,6 +96,7 @@ Semana de Receso.
 ### Octubre 24
 
 ### Octubre 31
+[María Encarnación Pérez](https://www.researchgate.net/profile/Maria_Perez35), Museo Paleontológico Egidio Feruglio, Patagonia, Argentina. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
 
 ### Noviembre 7
 
