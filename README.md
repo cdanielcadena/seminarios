@@ -103,7 +103,7 @@ Semana de Receso.
 Liliana Ballesteros, Investigadora Postdoctoral, Muséum National d'Histoire Naturelle, Paris. Contacto: [Camila Gonzalez](mailto:c.gonzalez2592@uniandes.edu.co)
 
 ### Noviembre 14
-[Daniel Huson] Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+[Daniel Huson](https://ab.inf.uni-tuebingen.de/people/huson/), Professor of Algorithms in Bioinformatics, University of Tuebingen. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
 
 ### Noviembre 21
 
