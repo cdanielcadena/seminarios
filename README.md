@@ -107,6 +107,7 @@ Semana de Receso.
 ### Noviembre 21
 
 ### Noviembre 28
+[Bonny Bayot](http://www.cenaim.espol.edu.ec/bbayot). Centro Nacional de Acuicultura e Investigaciones Marinas, Ecuador. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
 
 ----------------
 
