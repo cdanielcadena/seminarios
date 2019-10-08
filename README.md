@@ -100,7 +100,7 @@ Semana de Receso.
 
 ### Noviembre 7
 
-Liliana Ballesteros, Investigadora Postdoctoral, Muséum National d'Histoire Naturelle, Paris. Contacto: [Camila Gonzalez](mailto:c.gonzalez2592@uniandes.edu.co)
+[Liliana Ballesteros](https://www.researchgate.net/profile/Liliana_Ballesteros-Mejia), Investigadora Postdoctoral, Muséum National d'Histoire Naturelle, Paris. "Saturnidos y Esfíngidos: Nuevos modelos para el estudio de la diversidad y la macroecologia de los insectos". Contacto: [Camila Gonzalez](mailto:c.gonzalez2592@uniandes.edu.co)
 
 ### Noviembre 14
 [Daniel Huson](https://ab.inf.uni-tuebingen.de/people/huson/), Professor of Algorithms in Bioinformatics, University of Tuebingen. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
