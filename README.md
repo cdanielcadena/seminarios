@@ -89,7 +89,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 Semana de Receso.
 
 ### Octubre 10
-[Catalina Gonzalez](https://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb?id=80), Profesora Asociada, Departamento de Ciencias Biológicas, Universidad de los Andes.**Volcanes, diversidad y gente durante los últimos 10.000 años en los Andes tropicales**.
+[Catalina Gonzalez](https://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb?id=80), Profesora Asociada, Departamento de Ciencias Biológicas, Universidad de los Andes. **Volcanes, diversidad y gente durante los últimos 10.000 años en los Andes tropicales**.
 
 ### Octubre 17
 
@@ -99,8 +99,7 @@ Semana de Receso.
 [María Encarnación Pérez](https://www.researchgate.net/profile/Maria_Perez35), Museo Paleontológico Egidio Feruglio, Patagonia, Argentina. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
 
 ### Noviembre 7
-
-[Liliana Ballesteros](https://www.researchgate.net/profile/Liliana_Ballesteros-Mejia), Investigadora Postdoctoral, Muséum National d'Histoire Naturelle, Paris. "Saturnidos y Esfíngidos: Nuevos modelos para el estudio de la diversidad y la macroecologia de los insectos". Contacto: [Camila Gonzalez](mailto:c.gonzalez2592@uniandes.edu.co)
+[Liliana Ballesteros](https://www.researchgate.net/profile/Liliana_Ballesteros-Mejia), Investigadora Postdoctoral, Muséum National d'Histoire Naturelle, Paris. **Saturnidos y Esfíngidos: Nuevos modelos para el estudio de la diversidad y la macroecologia de los insectos**. Contacto: [Camila Gonzalez](mailto:c.gonzalez2592@uniandes.edu.co)
 
 ### Noviembre 14
 [Daniel Huson](https://ab.inf.uni-tuebingen.de/people/huson/), Professor of Algorithms in Bioinformatics, University of Tuebingen. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
