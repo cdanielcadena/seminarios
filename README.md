@@ -94,6 +94,7 @@ Semana de Receso.
 ### Octubre 17
 
 ### Octubre 24
+[Dolors Armenteras](https://www.researchgate.net/profile/Dolors_Armenteras), Profesora Asociada, Departamento de Biología, Universidad Nacional de Colombia. Contacto: [Catalina González](mailto::c.gonzalez2579@uniandes.edu.co)
 
 ### Octubre 31
 [María Encarnación Pérez](https://www.researchgate.net/profile/Maria_Perez35), Museo Paleontológico Egidio Feruglio, Patagonia, Argentina. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
