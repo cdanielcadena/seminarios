@@ -92,7 +92,7 @@ Semana de Receso.
 [Catalina Gonzalez](https://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb?id=80), Profesora Asociada, Departamento de Ciencias Biológicas, Universidad de los Andes. **Volcanes, diversidad y gente durante los últimos 10.000 años en los Andes tropicales**.
 
 ### Octubre 17
-[Paola Pulido-Santacruz](https://www.researchgate.net/profile/Paola_Pulido-Santacruz). Investigadora, Genética de la Conservación, Programa Ciencias de la Biodiversidad, Instituto Alexander von Humboldt. Contacto: [Daniel Cadena]
+[Paola Pulido-Santacruz](https://www.researchgate.net/profile/Paola_Pulido-Santacruz). Investigadora, Genética de la Conservación, Programa Ciencias de la Biodiversidad, Instituto Alexander von Humboldt. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
 ### Octubre 24
 [Dolors Armenteras](https://www.researchgate.net/profile/Dolors_Armenteras), Profesora Asociada, Departamento de Biología, Universidad Nacional de Colombia. Contacto: [Catalina González](mailto::c.gonzalez2579@uniandes.edu.co)
