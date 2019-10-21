@@ -95,10 +95,10 @@ Semana de Receso.
 [Paola Pulido-Santacruz](https://www.researchgate.net/profile/Paola_Pulido-Santacruz). Investigadora, Genética de la Conservación, Programa Ciencias de la Biodiversidad, Instituto Alexander von Humboldt. **Datos genómicos revelan una ventana extendida de introgresión durante el proceso de diversificación de aves neotropicales**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
 ### Octubre 24
-[Dolors Armenteras](https://www.researchgate.net/profile/Dolors_Armenteras), Profesora Asociada, Departamento de Biología, Universidad Nacional de Colombia. Contacto: [Catalina González](mailto::c.gonzalez2579@uniandes.edu.co)
+[Dolors Armenteras](https://www.researchgate.net/profile/Dolors_Armenteras), Profesora Asociada, Departamento de Biología, Universidad Nacional de Colombia. **Ecología del fuego en Colombia: disturbio ecológico, catástrofe ambiental o herramienta de manejo?** Contacto: [Catalina González](mailto::c.gonzalez2579@uniandes.edu.co)
 
 ### Octubre 31
-[María Encarnación Pérez](https://www.researchgate.net/profile/Maria_Perez35), Museo Paleontológico Egidio Feruglio, Patagonia, Argentina. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+[María Encarnación Pérez](https://www.researchgate.net/profile/Maria_Perez35), Museo Paleontológico Egidio Feruglio, Chubut, Argentina. **Historia evolutiva de los roedores (Hystricognathi) de América del Sur**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
 
 ### Noviembre 7
 [Liliana Ballesteros](https://www.researchgate.net/profile/Liliana_Ballesteros-Mejia), Investigadora Postdoctoral, Muséum National d'Histoire Naturelle, Paris. **Saturnidos y Esfíngidos: Nuevos modelos para el estudio de la diversidad y la macroecologia de los insectos**. Contacto: [Camila Gonzalez](mailto:c.gonzalez2592@uniandes.edu.co)
