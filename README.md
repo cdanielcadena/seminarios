@@ -104,7 +104,15 @@ Semana de Receso.
 [Liliana Ballesteros](https://www.researchgate.net/profile/Liliana_Ballesteros-Mejia), Investigadora Postdoctoral, Muséum National d'Histoire Naturelle, Paris. **Saturnidos y Esfíngidos: Nuevos modelos para el estudio de la diversidad y la macroecologia de los insectos**. Contacto: [Camila Gonzalez](mailto:c.gonzalez2592@uniandes.edu.co)
 
 ### Noviembre 14
-[Daniel Huson](https://ab.inf.uni-tuebingen.de/people/huson/), Professor of Algorithms in Bioinformatics, University of Tuebingen. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+[Daniel Huson](https://ab.inf.uni-tuebingen.de/people/huson/), Professor of Algorithms in Bioinformatics, University of Tuebingen. **Metagenomics using short / long reads**. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+
+
+    Metagenomic analysis of microbiome samples using high-throughput short read sequencing is a very popular approach to
+    studying microbiomes in their theater of activity. Projects often involve hundreds of samples and billions of reads. 
+    Computational pipelines such as DIAMOND+MEGAN allow such datasets to be analyzed in a reasonable amount of time. 
+    However, despite huge numbers of reads, the assembly of whole chromosomes from such data is all but impossible. 
+    Long read sequencing technologies promise to overcome this limitation and we discuss our work on sequencing, 
+    assembling and annotating complete chromosomes from enriched bioreactor communities.
 
 ### Noviembre 21
 
