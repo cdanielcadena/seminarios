@@ -1,9 +1,17 @@
 # Seminario del Departamento de Ciencias Biológicas, Universidad de los Andes
 
     Jueves, 12:30 a 1:20 pm.
-    Salón SD 802
+    Salón ML 604
     Entrada Libre
-    Contacto: C. Daniel Cadena (ccadena@uniandes.edu.co) o Andrés Link (a.link74@uniandes.edu.co)
+    Contacto: C. Daniel Cadena (ccadena@uniandes.edu.co)
+
+## Primer Semestre de 2020
+### Enero 23
+
+[Juan Armando Sánchez](https://biommar.uniandes.edu.co/), Profesor Titular, Departamento de Ciencias Biológicas, Universidad de los Andes. **Las propuestas de la Misión Internacional de Sabios: retos y oportunidades para las universidades**. 
+
+### Enero 30
+
 
 ## Segundo Semestre de 2019
 ### Agosto 8
