@@ -12,6 +12,50 @@
 
 ### Enero 30
 
+### Febrero 6
+
+### Febrero 13
+
+### Febrero 27
+
+### Marzo 5
+
+### Marzo 12
+
+### Marzo 19
+
+Semana de Receso. No hay seminario.
+
+### Marzo 26
+
+### Abril 2
+
+### Abril 9
+
+Semana Santa. No hay seminario.
+
+### Abril 16
+
+### Abril 23
+
+### Abril 30
+
+### Mayo 7
+
+### Mayo 14
+
+### Mayo 21
+
+
+
+
+
+
+
+
+
+
+
 
 ## Segundo Semestre de 2019
 ### Agosto 8
