@@ -16,6 +16,10 @@
 
 ### Febrero 13
 
+### Febrero 20
+
+[Juan Sebastian Ramirez](https://community.plantae.org/user/juandelviento), Centre of Microbial and Plant Genetics, KU Leuven, Bélgica. "El papel del regulador epigenético LHP1 en respuestas a estrés en *Arabidopsis thaliana*. Conctacto: [Adriana Bernal](mailto:abernal@uniandes.edu.co)
+
 ### Febrero 27
 
 ### Marzo 5
