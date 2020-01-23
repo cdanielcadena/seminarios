@@ -14,11 +14,13 @@
 
 ### Febrero 6
 
+[Andrea Quattrini](https://naturalhistory.si.edu/staff/andrea-quattrini), Research Zoologist, National Museum of Natural History, Smithsonian. **"Unraveling the drivers of coral diversity across depth, space, and time"**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co)
+
 ### Febrero 13
 
 ### Febrero 20
 
-[Juan Sebastian Ramirez](https://community.plantae.org/user/juandelviento), Centre of Microbial and Plant Genetics, KU Leuven, Bélgica. "El papel del regulador epigenético LHP1 en respuestas a estrés en *Arabidopsis thaliana*". Contacto: [Adriana Bernal](mailto:abernal@uniandes.edu.co)
+[Juan Sebastian Ramirez](https://community.plantae.org/user/juandelviento), Centre of Microbial and Plant Genetics, KU Leuven, Bélgica. **"El papel del regulador epigenético LHP1 en respuestas a estrés en *Arabidopsis thaliana*"**. Contacto: [Adriana Bernal](mailto:abernal@uniandes.edu.co)
 
 ### Febrero 27
 
