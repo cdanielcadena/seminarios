@@ -12,6 +12,9 @@
 
 ### Enero 30
 
+**"TBA"**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+
+
 ### Febrero 6
 
 [Andrea Quattrini](https://naturalhistory.si.edu/staff/andrea-quattrini), Research Zoologist, National Museum of Natural History, Smithsonian. **"Unraveling the drivers of coral diversity across depth, space, and time"**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co)
@@ -27,6 +30,9 @@
 ### Marzo 5
 
 ### Marzo 12
+
+[Adriana Sánchez](https://www.urosario.edu.co/Profesores/Listado-de-profesores/S/Adriana-Sanchez/), Profesora Asociada, Facultad de Ciencias Naturales y Matemáticas, Universidad del Rosario. **"TBA"**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
+
 
 ### Marzo 19
 
