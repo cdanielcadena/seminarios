@@ -144,6 +144,7 @@ Semana de Receso.
 [Liliana Ballesteros](https://www.researchgate.net/profile/Liliana_Ballesteros-Mejia), Investigadora Postdoctoral, Muséum National d'Histoire Naturelle, Paris. **Saturnidos y Esfíngidos: Nuevos modelos para el estudio de la diversidad y la macroecologia de los insectos**. Contacto: [Camila Gonzalez](mailto:c.gonzalez2592@uniandes.edu.co)
 ### Noviembre 14
 [Daniel Huson](https://ab.inf.uni-tuebingen.de/people/huson/), Professor of Algorithms in Bioinformatics, University of Tuebingen. **Metagenomics using short / long reads**. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+    
     Metagenomic analysis of microbiome samples using high-throughput short read sequencing is a very popular approach to
     studying microbiomes in their theater of activity. Projects often involve hundreds of samples and billions of reads. 
     Computational pipelines such as DIAMOND+MEGAN allow such datasets to be analyzed in a reasonable amount of time. 
@@ -154,10 +155,12 @@ Semana de Receso.
 No tendremos seminario por paro nacional.
 ### Noviembre 28
 [Bonny Bayot](http://www.cenaim.espol.edu.ec/bbayot). Centro Nacional de Acuicultura e Investigaciones Marinas, Ecuador. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+
 ----------------
 ## Primer Semestre de 2019
 ### Enero 31
 [Natasha Bloch](http://www.zoology.ubc.ca/mank-lab/Natasha/), Profesora Asistente. Departamento de Ingeniería Biomédica, Universidad de los Andes. **"Neurogenómica de preferencias de apareamiento”**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
+    
     Entender el comportamiento animal y su evolución requiere entender los mecanismos neuronales de la percepción y 
     el comportamiento. Me enfoco en el comportamiento de apareamiento en el guppy (Poecilia reticulata), estudiando 
     la respuesta neurogenómica del cerebro en diferentes contextos de apareamiento. En esta charla voy a presentar 
@@ -167,6 +170,7 @@ No tendremos seminario por paro nacional.
     únicamente se activan cuando una hembra esta en presencia de un macho atractivo, con el que decidiría aparearse.  
 ### Febrero 7
 **Jorge Marco**, Investigador Postdoctoral. Facultad de Economía, Universidad de los Andes. **"Fortalecimiento de la capacidad analítica para apoyar la gestión: indicadores del desempeño de pesquerías"**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co).
+    
     Diseñados por investigadores afiliados a la Universidad de Florida, la Universidad de Washington y el Banco Mundial,
     los Indicadores del Desempeño de Pesquerías (FPI) son una herramienta ampliamente aplicable y flexible para evaluar 
     el desempeño de pesquerías individuales (artesanales o industriales) y para establecer vínculos entre las 
@@ -182,6 +186,7 @@ No tendremos seminario por paro nacional.
     ámbito académico como para las instituciones relacionadas con el manejo de pesquerías.
 ### Febrero 14
 [Maryam Chaib de Mares](https://www.researchgate.net/profile/Maryam_Chaib_De_Mares). **Invertebrados marinos y simbiontes microbianos**. Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
+    
     Las relaciones simbióticas son un factor importante para la diversificación y la evolución de los organismos. 
     Invertebrados marinos como los corales y las esponjas participan en relaciones entre reinos con simbiontes 
     microbianos. Estos microorganismos son cruciales para la salud del animal hospedero, proporcionando nutrientes
@@ -201,6 +206,7 @@ No tendremos seminario por paro nacional.
 Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/maestria-en-ciencias-biologicas) y [doctorado](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/doctorado-en-ciencias-biologia) de la Escuela de Posgrado del Departamento de Ciencias Biológicas. Responsable: [Adriana Bernal](mailto:abernal@uniandes.edu.co).
 ### Febrero 28
 [Isabel Natalia Sierra](https://www.researchgate.net/profile/Isabel_Sierra_Garcia). Organización Mind the Microbes y Departamento de Ciencias Básicas, Unidades Tecnológicas de Santander. "**Microbiota y metabolismo en reservorios de petróleo: desde la degradación de hidrocarburos hasta la producción de metano**". Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
+    
     Natalia Sierra es graduada en biología (Cum Laude) de la Universidad Industrial de Santander (2008). Con un interés
     destacado en el área de la microbiología ambiental, Natalia culminó su maestría (2011) y doctorado (2016) en 
     Genética y Biología Molecular en la Universidad Estadual de Campinas (Brazil). Su trabajo de maestría en: 
@@ -222,6 +228,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 [Santiago Madriñán](https://botanica.uniandes.edu.co/), Profesor Titular, Departamento de Ciencias Biológicas, Universidad de los Andes.**"Jardín Botánico de Cartagena: estación biológica en el Caribe colombiano"**.
 ### Marzo 21
 [Andrés Quiñones](http://www.andres-quinones.com/), Investigador Postdoctoral. Departamento de Ciencias Biológicas, Universidad de los Andes. **"El rol de la plasticidad fenotípica y la historia de vida en la evolución de las sociedades animales: teorías inspiradas en sociedades de peces e insectos"** Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
+    
     La evolución de las sociedades animales ha sido una recurrente pregunta en biología evolutiva desde que Darwin mismo
     argumentó que la existencia de individuos estériles en las sociedades de insectos representaba un reto casi 
     insuperable para su teoría de la selección natural. Las sociedades animales presentan una gran diversidad de
@@ -236,6 +243,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 [César Arias](https://med.uth.edu/internalmedicine/faculty/cesar-a-arias-md-msc-phd/), Professor, McGovern Medical School, University of Texas. **"Targeting a cell membrane adaptation as a novel antimicrobial strategy"**. Contacto: [Adriana Celis](mailto:acelis@uniandes.edu.co).
 ### Marzo 28
 [David Moore](https://snre.arizona.edu/people/david-moore), Associate Professor. School of Natural Resources and the Environment, University of Arizona. **"Understanding the carbon cycle by combining models and data"**. Contacto: [Eloisa Lasso](mailto:e.lasso@uniandes.edu.co).
+    
     Ecologists now have access to more data than ever before. The study of the carbon cycle draws on information from 
     leaf scale physiology to networks of ecosystem scale eddy covariance observations of carbon exchange, long term 
     records of forest growth from tree rings, to global satellite observations of vegetation greenness and 
@@ -245,6 +253,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
  
 ### Abril 4
 [Rachel Gallery](http://rachelgallery.arizona.edu/), Associate Professor. School of Natural Resources and the Environment, University of Arizona. **"Soil microbial responses to wildfires and climate warming: Scaling from microns to watersheds with microbiology and remote sensing tools"** Contacto: [Eloisa Lasso](mailto:e.lasso@uniandes.edu.co).
+    
     The biogeography, ecology, and physiology of microorganisms in soils, their responses to disturbance, and 
     their interactions with plants are the root cause of uncertainty surrounding ecosystem responses to our changing
     climate. These plant-microbe feedbacks that ultimately control nutrient transformation and storage in ecosystems 
