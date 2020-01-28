@@ -28,6 +28,8 @@
 
 ### Marzo 5
 
+[Enrique De La Vega]. **TBA**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
+
 ### Marzo 12
 
 [Adriana Sánchez](https://www.urosario.edu.co/Profesores/Listado-de-profesores/S/Adriana-Sanchez/), Profesora Asociada, Facultad de Ciencias Naturales y Matemáticas, Universidad del Rosario. **TBA**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
