@@ -12,12 +12,11 @@
 
 ### Enero 30
 
-**Rythms in primates: The Spider Monkey *Ateles geoffroyi***. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+[Jairo Muñoz](http://psicologia.posgrado.unam.mx/jairo-ignacio-munoz-delgado/), Investigador, Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz, Facultad de Psicología, Universidad Nacional Autónoma de México. **Rythms in primates: The Spider Monkey *Ateles geoffroyi* (o de cómo el paso por la vida de los organismos es un ritmo constante y cadencioso)**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
 
 
 ### Febrero 6
 
-[Andrea Quattrini](https://naturalhistory.si.edu/staff/andrea-quattrini), Research Zoologist, National Museum of Natural History, Smithsonian. **Unraveling the drivers of coral diversity across depth, space, and time**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co)
 
 ### Febrero 13
 
@@ -38,6 +37,8 @@
 Semana de Receso. No hay seminario.
 
 ### Marzo 26
+
+[Andrea Quattrini](https://naturalhistory.si.edu/staff/andrea-quattrini), Research Zoologist, National Museum of Natural History, Smithsonian. **Unraveling the drivers of coral diversity across depth, space, and time**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co)
 
 ### Abril 2
 
