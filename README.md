@@ -12,7 +12,7 @@
 
 ### Enero 30
 
-**TBA**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+**Rythms in primates: The Spider Monkey *Ateles geoffroyi***. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
 
 
 ### Febrero 6
