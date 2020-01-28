@@ -70,6 +70,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 [Romain Guyot](https://www.ird.fr), Director de Investigación en Genómica, Evolución y Bioinformática, Instituto de Investigación para el Desarrollo, Montpellier. **Los genes voladores: introducción y desafíos de los análisis de elementos transponibles en plantas**. Contacto: [Silvia Restrepo](mailto:srestrep@uniandes.edu.co)
 ### Agosto 29
 [Adrian Turjanksi](http://www.iquibicen.fcen.uba.ar/investigador/adrian-turjanski-2/), Profesor Departamento de Química Biológica, Universidad de Buenos Aires e Investigador Conicet. **Translational bioinformatics: From genomes to disease diagnosis in the clinic.** Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+        
         Recent advances in genome sequencing, delivering data cheaper and faster every year, together with new 
         bioinformatics algorithms, artificial intelligence, and big data promise a new era of personalized medicine. 
         As the DNA of more and more people is being obtained the bottleneck for a truly genomics era in healthcare 
@@ -89,12 +90,14 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
 [Felipe Castro](https://cods.uniandes.edu.co/equipo/), Subdirector, Centro de los Objetivos de Desarrollo Sostenible para América Latina. **El rol de la academia en la Agenda 2030 y los Objetivos de Desarrollo Sostenible**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 ### Septiembre 12
 [German Enciso](https://www.math.uci.edu/~genciso/), Professor, Mathematics Department and Department of Developmental and Cell Biology, University of California at Irvine. **Matemáticas aplicadas a la biología celular**. Contacto: [Jorge Molina](mailto:jmolina@uniandes.edu.co)
+        
         En esta charla se describirán algunos de los usos más importantes de las matemáticas en la biología
         moderna, especialmente en biología celular y molecular.  Se presentarán varios ejemplos de modelos 
         matemáticos y el análisis cuantitativo de problemas en biología. La charla finaliza con una 
         colaboración reciente en el estudio de la toma de decisiones en la bacteria Chlamydia trachomatis.
 ### Septiembre 19
 [Josef Rasinger y Kai Kristoffer](https://www.imr.no/en), Institute of Marine Research. **Omics in food and feed safety research**. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+        
         We will present and discuss food and feed safety research currently performed at the Institute of Marine 
     Research (IMR) in Norway. We will provide an overview of the challenges regulatory scientists face when using
     omics and bioinformatics in research bridging basic science, legislation and public health. Furthermore, using
@@ -117,6 +120,7 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
     bioinformatics tools for food and feed safety research.    
 ### Septiembre 26
 [Kenneth Poss](https://www.cellbio.duke.edu/kenneth-d-poss), Professor, Department of Cell Biology, Duke University School of Medicine. **Visualizing and dissecting tissue regeneration in zebrafish**. Conferencista invitado por estudiantes de posgrado del Departamento de Ciencias Biológicas. Contacto: [Lucía Uribe](mailto:lc.uribe@uniandes.edu.co)
+        
         My primary research goal is to understand mechanisms of vertebrate tissue regeneration. We study 
         regeneration of cardiac muscle, spinal cord, and major appendages in zebrafish, which possess especially
         high regenerative capacity. We have established several tools to interrogate regeneration and 
