@@ -17,6 +17,7 @@
 
 ### Febrero 6
 
+[Carlos Edwin Gómez](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000613940), Investigador Postdoctoral, Biología Molecular Marina, UniAndes. **Corales de profundidad en el antropoceno: un acercamiento ecofisiológico**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co)
 
 ### Febrero 13
 
