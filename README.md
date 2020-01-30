@@ -57,7 +57,7 @@ Semana Santa. No hay seminario.
 
 ### Mayo 7
 
-[Claudia Leal](https://uniandes.academia.edu/ClaudiaLeal), Profesora Asociada, Departamento de Historia, Universidad de los Andes. **Un tesoro reservado para la ciencia¨ El inusual comienzo de la conservación de la naturaleza en Colombia**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
+[Claudia Leal](https://uniandes.academia.edu/ClaudiaLeal), Profesora Asociada, Departamento de Historia, Universidad de los Andes. **Un tesoro reservado para la ciencia: El inusual comienzo de la conservación de la naturaleza en Colombia**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
 ### Mayo 14
 
