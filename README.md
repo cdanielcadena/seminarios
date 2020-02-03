@@ -14,12 +14,14 @@
 
 [Jairo Muñoz](http://psicologia.posgrado.unam.mx/jairo-ignacio-munoz-delgado/), Investigador, Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz, Facultad de Psicología, Universidad Nacional Autónoma de México. **Rythms in primates: The Spider Monkey *Ateles geoffroyi* (o de cómo el paso por la vida de los organismos es un ritmo constante y cadencioso)**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
 
-
 ### Febrero 6
 
 [Carlos Edwin Gómez](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000613940), Investigador Postdoctoral, Biología Molecular Marina, UniAndes. **Corales de profundidad en el Antropoceno: un acercamiento ecofisiológico**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co)
 
 ### Febrero 13
+
+[Loren Cassin Sackett](http://www.cassinsackett.com/), Assistant Professor, Department of Integrative Biology, University of South Florida, and Center for Conservation Genomics, Smithsonian Conservation Biology Institute. **TBA**. Contacto: [Andrew Crawford](mailto:aj.crawford244@uniandes.edu.co)
+
 
 ### Febrero 20
 
