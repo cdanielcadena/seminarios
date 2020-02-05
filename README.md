@@ -29,6 +29,8 @@
 
 ### Febrero 27
 
+[Denis Grouzdev](https://www.researchgate.net/profile/Denis_Grouzdev). **TBA**. Contacto: 
+
 ### Marzo 5
 
 [Enrique De La Vega]. **TBA**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
