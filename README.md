@@ -29,7 +29,7 @@
 
 ### Febrero 27
 
-[Denis Grouzdev](https://www.researchgate.net/profile/Denis_Grouzdev). **TBA**. Contacto: 
+[Denis Grouzdev](https://www.researchgate.net/profile/Denis_Grouzdev). **TBA**. Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co)
 
 ### Marzo 5
 
