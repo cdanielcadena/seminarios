@@ -33,7 +33,7 @@
 
 ### Marzo 5
 
-[Enrique De La Vega]. **TBA**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
+[Enrique De La Vega](http://pescalimpia.org/pagina/inicio/). **La pesquería de atún en el mundo: situación actual y perspectivas para el futuro**. Director Fundación Pesca Limpia, Director del Programa Nacional de Observadores Atuneros. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
 ### Marzo 12
 
