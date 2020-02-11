@@ -20,7 +20,7 @@
 
 ### Febrero 13
 
-[Loren Cassin Sackett](http://www.cassinsackett.com/), Assistant Professor, Department of Integrative Biology, University of South Florida, and Center for Conservation Genomics, Smithsonian Conservation Biology Institute. **The consequences of introduced pathogens on host genomes**. Contacto: [Andrew Crawford](mailto:aj.crawford244@uniandes.edu.co)
+[Loren Cassin Sackett](http://www.cassinsackett.com/), Assistant Professor, Department of Biology, University of Louisiana at Lafayette, and Research Affiliate, Smithsonian Institution. **The consequences of introduced pathogens on host genomes**. Contacto: [Andrew Crawford](mailto:aj.crawford244@uniandes.edu.co)
 
 
 ### Febrero 20
