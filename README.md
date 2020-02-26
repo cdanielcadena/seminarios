@@ -29,7 +29,7 @@
 
 ### Febrero 27
 
-[Denis Grouzdev](https://www.researchgate.net/profile/Denis_Grouzdev), Investigador, Federal Center Research Fundamentals of Biotechnology (RAS), Moscú, Rusia **TBA**. Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co)
+[Denis Grouzdev](https://www.researchgate.net/profile/Denis_Grouzdev), Investigador, Federal Center Research Fundamentals of Biotechnology (RAS), Moscú, Rusia **Bacteria that make tiny magnets**. Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co)
 
 ### Marzo 5
 
