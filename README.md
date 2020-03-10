@@ -37,7 +37,7 @@
 
 ### Marzo 12
 
-[Adriana Sánchez](https://www.urosario.edu.co/Profesores/Listado-de-profesores/S/Adriana-Sanchez/), Profesora Asociada, Facultad de Ciencias Naturales y Matemáticas, Universidad del Rosario. **TBA**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
+[Adriana Sánchez](https://www.urosario.edu.co/Profesores/Listado-de-profesores/S/Adriana-Sanchez/), Profesora Asociada, Facultad de Ciencias Naturales y Matemáticas, Universidad del Rosario. **Islas en el cielo: estructuración de comunidades de páramo**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
 ### Marzo 19
 
