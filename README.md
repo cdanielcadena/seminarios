@@ -49,6 +49,8 @@ Semana de Receso. No hay seminario.
 
 ### Abril 2
 
+[Lina Moros](https://www.researchgate.net/profile/Lina_Moros), Profesora Asistente, Facultad de Administración, Universidad de los Andes. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+
 ### Abril 9
 
 Semana Santa. No hay seminario.
