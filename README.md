@@ -45,7 +45,7 @@ Semana de Receso. No hay seminario.
 
 ### Marzo 26
 
-[C. Daniel Cadena](http://evolvert.weebly.com/), Profesor Titular, Departamento de Ciencias Biológicas, Universidad de los Andes. **Re-Expedición Colombia: Ecología, Evolución y Conservación Tras un Siglo de Cambio en las Aves y sus Hábitats**.
+[C. Daniel Cadena](http://evolvert.weebly.com/), Profesor Titular, Departamento de Ciencias Biológicas, Universidad de los Andes. **Re-Expedición Colombia: ecología, evolución y conservación tras un siglo de cambio en las aves y sus hábitats**.
 
 ### Abril 2
 
