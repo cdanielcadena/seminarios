@@ -1,7 +1,7 @@
 # Seminario del Departamento de Ciencias Biológicas, Universidad de los Andes
 
     Jueves, 12:30 a 1:20 pm.
-    Salón ML 604
+    Salón ML 604 o virtualmente vía Zoom
     Entrada Libre
     Contacto: C. Daniel Cadena (ccadena@uniandes.edu.co)
 
@@ -45,7 +45,7 @@ Semana de Receso. No hay seminario.
 
 ### Marzo 26
 
-[Andrea Quattrini](https://naturalhistory.si.edu/staff/andrea-quattrini), Research Zoologist, National Museum of Natural History, Smithsonian. **Unraveling the drivers of coral diversity across depth, space, and time**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co)
+[C. Daniel Cadena](http://evolvert.weebly.com/), Profesor Titular, Departamento de Ciencias Biológicas, Universidad de los Andes. **Re-Expedición Colombia: Ecología, Evolución y Conservación Tras un Siglo de Cambio en las Aves y sus Hábitats**.
 
 ### Abril 2
 
@@ -56,6 +56,8 @@ Semana de Receso. No hay seminario.
 Semana Santa. No hay seminario.
 
 ### Abril 16
+
+[Andrea Quattrini](https://naturalhistory.si.edu/staff/andrea-quattrini), Research Zoologist, National Museum of Natural History, Smithsonian. **Unraveling the drivers of coral diversity across depth, space, and time**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co)
 
 ### Abril 23
 
