@@ -182,6 +182,7 @@ No tendremos seminario por paro nacional.
     grupos de genes que cambian sus niveles de expresión durante la evaluación de un macho, así como los genes que 
     únicamente se activan cuando una hembra esta en presencia de un macho atractivo, con el que decidiría aparearse.  
 ![](1.jpg | width=100)
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/1.jpg' width=100/>
 
 ### Febrero 7
 **Jorge Marco**, Investigador Postdoctoral. Facultad de Economía, Universidad de los Andes. **"Fortalecimiento de la capacidad analítica para apoyar la gestión: indicadores del desempeño de pesquerías"**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co).
