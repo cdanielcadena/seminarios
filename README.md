@@ -77,10 +77,17 @@ Semana Santa. No hay seminario.
 ## Segundo Semestre de 2019
 ### Agosto 8
 [Anthony Di Fiore](https://liberalarts.utexas.edu/anthropology/faculty/ad26693), Professor, Department of Anthropology, University of Texas at Austin. **Comportamiento social de los primates atelinos en la Amazonia occidental de Ecuador**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/15.jpg' width=300/>
+
 ### Agosto 15
 Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/maestria-en-ciencias-biologicas) y [doctorado](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/doctorado-en-ciencias-biologia) de la Escuela de Posgrado del Departamento de Ciencias Biológicas. Responsable: [Adriana Bernal](mailto:abernal@uniandes.edu.co)
+
 ### Agosto 22
 [Romain Guyot](https://www.ird.fr), Director de Investigación en Genómica, Evolución y Bioinformática, Instituto de Investigación para el Desarrollo, Montpellier. **Los genes voladores: introducción y desafíos de los análisis de elementos transponibles en plantas**. Contacto: [Silvia Restrepo](mailto:srestrep@uniandes.edu.co)
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/16.jpg' width=300/>
+
 ### Agosto 29
 [Adrian Turjanksi](http://www.iquibicen.fcen.uba.ar/investigador/adrian-turjanski-2/), Profesor Departamento de Química Biológica, Universidad de Buenos Aires e Investigador Conicet. **Translational bioinformatics: From genomes to disease diagnosis in the clinic.** Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
         
@@ -99,8 +106,14 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
         on the application of our bioinformatic solution to several cases of rare disease diagnosis that were 
         performed in the context of a large collaboration between my group, hospitals, and companies in the context of
         the Argentinian presición medicine initiative.
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/17.jpg' width=300/>
+
 ### Septiembre 5
 [Felipe Castro](https://cods.uniandes.edu.co/equipo/), Subdirector, Centro de los Objetivos de Desarrollo Sostenible para América Latina. **El rol de la academia en la Agenda 2030 y los Objetivos de Desarrollo Sostenible**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/18.jpg' width=300/>
+
 ### Septiembre 12
 [German Enciso](https://www.math.uci.edu/~genciso/), Professor, Mathematics Department and Department of Developmental and Cell Biology, University of California at Irvine. **Matemáticas aplicadas a la biología celular**. Contacto: [Jorge Molina](mailto:jmolina@uniandes.edu.co)
         
@@ -108,6 +121,9 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
         moderna, especialmente en biología celular y molecular.  Se presentarán varios ejemplos de modelos 
         matemáticos y el análisis cuantitativo de problemas en biología. La charla finaliza con una 
         colaboración reciente en el estudio de la toma de decisiones en la bacteria Chlamydia trachomatis.
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/19.jpg' width=300/>
+
 ### Septiembre 19
 [Josef Rasinger y Kai Kristoffer](https://www.imr.no/en), Institute of Marine Research. **Omics in food and feed safety research**. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
         
@@ -131,6 +147,9 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
     molecule metabolite profiles (metabolomes). Both scientists have a background in toxicology and omics data 
     analytics and a keen interest in the application and implementation of molecular, bio-statistical and 
     bioinformatics tools for food and feed safety research.    
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/20.jpg' width=300/>
+
 ### Septiembre 26
 [Kenneth Poss](https://www.cellbio.duke.edu/kenneth-d-poss), Professor, Department of Cell Biology, Duke University School of Medicine. **Visualizing and dissecting tissue regeneration in zebrafish**. Conferencista invitado por estudiantes de posgrado del Departamento de Ciencias Biológicas. Contacto: [Lucía Uribe](mailto:lc.uribe@uniandes.edu.co)
         
@@ -143,18 +162,38 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
         collaborators and within my own group. Our long-term goal is to delineate how and why tissue 
         regeneration happens, and to use this information to improve the poor regenerative capacity of human
         tissues like the heart and spinal cord.
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/21.jpg' width=300/>
+
 ### Octubre 3
 Semana de Receso.
+
 ### Octubre 10
 [Catalina Gonzalez](https://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb?id=80), Profesora Asociada, Departamento de Ciencias Biológicas, Universidad de los Andes. **Volcanes, diversidad y gente durante los últimos 10.000 años en los Andes tropicales**.
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/22.jpg' width=300/>
+
+
 ### Octubre 17
 [Paola Pulido-Santacruz](https://www.researchgate.net/profile/Paola_Pulido-Santacruz). Investigadora, Genética de la Conservación, Programa Ciencias de la Biodiversidad, Instituto Alexander von Humboldt. **Datos genómicos revelan una ventana extendida de introgresión durante el proceso de diversificación de aves neotropicales**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/23.jpg' width=300/>
+
 ### Octubre 24
 [Dolors Armenteras](https://www.researchgate.net/profile/Dolors_Armenteras), Profesora Asociada, Departamento de Biología, Universidad Nacional de Colombia. **Ecología del fuego en Colombia: disturbio ecológico, catástrofe ambiental o herramienta de manejo?** Contacto: [Catalina González](mailto::c.gonzalez2579@uniandes.edu.co)
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/24.jpg' width=300/>
+
 ### Octubre 31
 [María Encarnación Pérez](https://www.researchgate.net/profile/Maria_Perez35), Museo Paleontológico Egidio Feruglio, Chubut, Argentina. **Historia evolutiva de los roedores (Hystricognathi) de América del Sur**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/25.jpg' width=300/>
+
 ### Noviembre 7
 [Liliana Ballesteros](https://www.researchgate.net/profile/Liliana_Ballesteros-Mejia), Investigadora Postdoctoral, Muséum National d'Histoire Naturelle, Paris. **Saturnidos y Esfíngidos: Nuevos modelos para el estudio de la diversidad y la macroecologia de los insectos**. Contacto: [Camila Gonzalez](mailto:c.gonzalez2592@uniandes.edu.co)
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/26.jpg' width=300/>
+
 ### Noviembre 14
 [Daniel Huson](https://ab.inf.uni-tuebingen.de/people/huson/), Professor of Algorithms in Bioinformatics, University of Tuebingen. **Metagenomics using short / long reads**. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
     
@@ -164,10 +203,15 @@ Semana de Receso.
     However, despite huge numbers of reads, the assembly of whole chromosomes from such data is all but impossible. 
     Long read sequencing technologies promise to overcome this limitation and we discuss our work on sequencing, 
     assembling and annotating complete chromosomes from enriched bioreactor communities.
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/27.jpg' width=300/>
+
 ### Noviembre 21
-No tendremos seminario por paro nacional.
+Seminario cancelado por paro nacional.
+
 ### Noviembre 28
 [Bonny Bayot](http://www.cenaim.espol.edu.ec/bbayot). Centro Nacional de Acuicultura e Investigaciones Marinas, Ecuador. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/28.jpg' width=300/>
 
 ----------------
 ## Primer Semestre de 2019
