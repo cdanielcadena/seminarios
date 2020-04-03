@@ -200,6 +200,9 @@ No tendremos seminario por paro nacional.
     sobre la Gestión Sostenible de los Recursos Marinos para evaluar un nuevo conjunto de pesquerías en todo el mundo,
     incluido Colombia. El objetivo de este seminario es introducir la metodología FPI y su potencial tanto para el
     ámbito académico como para las instituciones relacionadas con el manejo de pesquerías.
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/2.jpg' width=300/>
+
 ### Febrero 14
 [Maryam Chaib de Mares](https://www.researchgate.net/profile/Maryam_Chaib_De_Mares). **Invertebrados marinos y simbiontes microbianos**. Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
     
@@ -218,8 +221,12 @@ No tendremos seminario por paro nacional.
     su entendimiento funcional. En el segundo caso, presentaré los resultados de un proyecto dirigido a evaluar la 
     estabilidad de las interacciones entre coral y microbios, en condiciones experimentales específicas de estrés 
     antropogénico y ambiental.
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/4.jpg' width=300/>
+
 ### Febrero 21
 Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/maestria-en-ciencias-biologicas) y [doctorado](http://cienciasbiologicas.uniandes.edu.co/index.php/es/programas/postgrado/doctorado-en-ciencias-biologia) de la Escuela de Posgrado del Departamento de Ciencias Biológicas. Responsable: [Adriana Bernal](mailto:abernal@uniandes.edu.co).
+
 ### Febrero 28
 [Isabel Natalia Sierra](https://www.researchgate.net/profile/Isabel_Sierra_Garcia). Organización Mind the Microbes y Departamento de Ciencias Básicas, Unidades Tecnológicas de Santander. "**Microbiota y metabolismo en reservorios de petróleo: desde la degradación de hidrocarburos hasta la producción de metano**". Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co).
     
@@ -238,10 +245,19 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
     diversidad taxonómica y funcional en microorganismos de reservorios de petróleo, así como su potencial para la 
     biodegradación de hidrocarburos y producción de metano. Igualmente, comentará sobre algunas de las actividades 
     realizadas desde “Mind the Microbes”.  
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/5.jpg' width=300/>
+
 ### Marzo 7
 [Mauricio Santos](https://scholar.google.com/citations?user=RmrmFqoAAAAJ&hl=en), Investigador Postdoctoral. Departamento de Ingeniería Biomédica, Universidad de los Andes. "**A dynamical perspective to malaria and climate in low-transmission regions**". Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/6.jpg' width=300/>
+
 ### Marzo 14
 [Santiago Madriñán](https://botanica.uniandes.edu.co/), Profesor Titular, Departamento de Ciencias Biológicas, Universidad de los Andes.**"Jardín Botánico de Cartagena: estación biológica en el Caribe colombiano"**.
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/7.jpg' width=300/>
+
 ### Marzo 21
 [Andrés Quiñones](http://www.andres-quinones.com/), Investigador Postdoctoral. Departamento de Ciencias Biológicas, Universidad de los Andes. **"El rol de la plasticidad fenotípica y la historia de vida en la evolución de las sociedades animales: teorías inspiradas en sociedades de peces e insectos"** Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
     
@@ -255,18 +271,24 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
     varias teorías sobre el origen de estas sociedades, intentando incluir detalles biológicos relevantes como la 
     historia de vida y la plasticidad fenotípica. Bajo la luz de los resultados del modelamiento discutiré la relevancia 
     de factores tradicionalmente considerados importantes como el nivel de parentesco.
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/8.jpg' width=300/>
+
 ### Marzo 26 - Seminario Especial, Salón ML-513, 12 pm
 [César Arias](https://med.uth.edu/internalmedicine/faculty/cesar-a-arias-md-msc-phd/), Professor, McGovern Medical School, University of Texas. **"Targeting a cell membrane adaptation as a novel antimicrobial strategy"**. Contacto: [Adriana Celis](mailto:acelis@uniandes.edu.co).
+
 ### Marzo 28
 [David Moore](https://snre.arizona.edu/people/david-moore), Associate Professor. School of Natural Resources and the Environment, University of Arizona. **"Understanding the carbon cycle by combining models and data"**. Contacto: [Eloisa Lasso](mailto:e.lasso@uniandes.edu.co).
-    
+
     Ecologists now have access to more data than ever before. The study of the carbon cycle draws on information from 
     leaf scale physiology to networks of ecosystem scale eddy covariance observations of carbon exchange, long term 
     records of forest growth from tree rings, to global satellite observations of vegetation greenness and 
     photosynthesis. Integrating across scales is challenging but one approach is to develop mathematical models 
     that approximate ecosystem processes and to combine them with these data to inform how the carbon cycle might 
     respond to the changing environmental, climatic and atmospheric conditions.
- 
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/9.jpg' width=300/>
+
 ### Abril 4
 [Rachel Gallery](http://rachelgallery.arizona.edu/), Associate Professor. School of Natural Resources and the Environment, University of Arizona. **"Soil microbial responses to wildfires and climate warming: Scaling from microns to watersheds with microbiology and remote sensing tools"** Contacto: [Eloisa Lasso](mailto:e.lasso@uniandes.edu.co).
     
@@ -277,13 +299,27 @@ Reunión informativa para estudiantes de [maestría](http://cienciasbiologicas.u
     plant-soil feedbacks in contrasting ecosystems to highlight the use of predictive spatial models to refine 
     hypotheses regarding the controls of microbial activities in soils. 
  
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/10.jpg' width=300/>
+ 
 ### Abril 11
 [Glenn Seeholzer](https://glennseeholzer.weebly.com/publications.html), Investigador Postdoctoral. American Museum of Natural History & Departamento de Ciencias Biológicas, Universidad de los Andes. **"Clinal variation as a window into the process of speciation in Neotropical birds"**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co).
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/11.jpg' width=300/>
+
 ### Abril 18
 Semana Santa. No hay seminario.
+
 ### Abril 25
 [Juan Pablo Jaramillo](http://web.ecologia.unam.mx/index.php/investigadores/juan-pablo-jaramillo), Investigador Titular. Instituto de Ecología, Universidad Nacional Autónoma de México.**"Adaptándose al (sub)trópico: evolución reticulada y especiación en coníferas mexicanas".** Contacto: [Susana Caballero](mailto:sj.caballero26@uniandes.edu.co).
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/12.jpg' width=300/>
+
 ### Mayo 2
 **Catalina Suárez**. Investigadora, Museo de la Plata (Argentina) y Museo Geológico Nacional José Royo y Gomez, Servicio Geológico Colombiano. **"Depredadores del Mioceno en Colombia: los esparasodontes de La Venta"**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/13.jpg' width=300/>
+
 ### Mayo 9
 [María Adelaida Fernández](https://earthinnovation.org/about/staff/maria-adelaida-fernandez-munoz/), Coordinadora del Programa Nacional en Colombia de Earth Innovation Institute. **"De la Biología al Desarrollo Sostenible"**. Contacto: [Susana Caballero](mailto:sj.caballero26@uniandes.edu.co).
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/14.jpg' width=300/>
