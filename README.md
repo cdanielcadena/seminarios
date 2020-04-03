@@ -10,34 +10,49 @@
 
 [Juan Armando Sánchez](https://biommar.uniandes.edu.co/), Profesor Titular, Departamento de Ciencias Biológicas, Universidad de los Andes. **Las propuestas de la Misión Internacional de Sabios: retos y oportunidades para las universidades**. 
 
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/29.jpg' width=300/>
+
 ### Enero 30
 
 [Jairo Muñoz](http://psicologia.posgrado.unam.mx/jairo-ignacio-munoz-delgado/), Investigador, Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz, Facultad de Psicología, Universidad Nacional Autónoma de México. **Rythms in primates: The Spider Monkey *Ateles geoffroyi* (o de cómo el paso por la vida de los organismos es un ritmo constante y cadencioso)**. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/30.jpg' width=300/>
 
 ### Febrero 6
 
 [Carlos Edwin Gómez](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000613940), Investigador Postdoctoral, Biología Molecular Marina, UniAndes. **Corales de profundidad en el Antropoceno: un acercamiento ecofisiológico**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co)
 
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/31.jpg' width=300/>
+
 ### Febrero 13
 
 [Loren Cassin Sackett](http://www.cassinsackett.com/), Assistant Professor, Department of Biology, University of Louisiana at Lafayette, and Research Affiliate, Smithsonian Institution. **The consequences of introduced pathogens on host genomes**. Contacto: [Andrew Crawford](mailto:aj.crawford244@uniandes.edu.co)
 
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/32.jpg' width=300/>
 
 ### Febrero 20
 
 [Juan Sebastian Ramirez](https://community.plantae.org/user/juandelviento), Centre of Microbial and Plant Genetics, KU Leuven, Bélgica. **El papel del regulador epigenético LHP1 en respuestas a estrés en *Arabidopsis thaliana***. Contacto: [Adriana Bernal](mailto:abernal@uniandes.edu.co)
 
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/33.jpg' width=300/>
+
 ### Febrero 27
 
 [Denis Grouzdev](https://www.researchgate.net/profile/Denis_Grouzdev), Investigador, Federal Center Research Fundamentals of Biotechnology (RAS), Moscú, Rusia. **Bacteria that make tiny magnets**. Contacto: [Diego Jiménez](mailto:dj.jimenez@uniandes.edu.co)
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/34.jpg' width=300/>
 
 ### Marzo 5
 
 [Enrique De La Vega](http://pescalimpia.org/pagina/inicio/), Director Fundación Pesca Limpia, Director del Programa Nacional de Observadores Atuneros. **La pesquería de atún en el mundo: situación actual y perspectivas para el futuro** Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/35.jpg' width=300/>
+
 ### Marzo 12
 
 [Adriana Sánchez](https://www.urosario.edu.co/Profesores/Listado-de-profesores/S/Adriana-Sanchez/), Profesora Asociada, Facultad de Ciencias Naturales y Matemáticas, Universidad del Rosario. **Islas en el cielo: estructuración de comunidades de páramo**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/36.jpg' width=300/>
 
 ### Marzo 19
 
@@ -47,9 +62,13 @@ Semana de Receso. No hay seminario.
 
 [C. Daniel Cadena](http://evolvert.weebly.com/), Profesor Titular, Departamento de Ciencias Biológicas, Universidad de los Andes. **Re-Expedición Colombia: ecología, evolución y conservación tras un siglo de cambio en las aves y sus hábitats**.
 
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/37.jpg' width=300/>
+
 ### Abril 2
 
-[Lina Moros](https://www.researchgate.net/profile/Lina_Moros), Profesora Asistente, Facultad de Administración, Universidad de los Andes. Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+[Lina Moros](https://www.researchgate.net/profile/Lina_Moros), Profesora Asistente, Facultad de Administración, Universidad de los Andes. **Pagos por servicios ambientales: ¿qué son, para qué sirven y por qué los critican?** Contacto: [Andrés Link](mailto:a.link74@uniandes.edu.co)
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/38.jpg' width=300/>
 
 ### Abril 9
 
@@ -210,7 +229,8 @@ Semana de Receso.
 Seminario cancelado por paro nacional.
 
 ### Noviembre 28
-[Bonny Bayot](http://www.cenaim.espol.edu.ec/bbayot). Centro Nacional de Acuicultura e Investigaciones Marinas, Ecuador. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+[Bonny Bayot](http://www.cenaim.espol.edu.ec/bbayot), Investigadora, Centro Nacional de Acuicultura e Investigaciones Marinas, Ecuador. **Manejo de salud en animales acuáticos: métodos de control y prevención de enfermedades**. Contacto: [Alejandro Reyes](mailto:a.reyes@uniandes.edu.co)
+
 <img src='https://github.com/cdanielcadena/seminarios/blob/master/28.jpg' width=300/>
 
 ----------------
