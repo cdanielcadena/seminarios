@@ -78,6 +78,8 @@ Semana Santa. No hay seminario.
 
 [Andrea Quattrini](https://naturalhistory.si.edu/staff/andrea-quattrini), Research Zoologist, National Museum of Natural History, Smithsonian. **Unraveling the drivers of coral diversity across depth, space, and time**. Contacto: [Juan Armando Sánchez](mailto:juansanc@uniandes.edu.co)
 
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/39.jpg' width=300/>
+
 ### Abril 23
 
 ### Abril 30
