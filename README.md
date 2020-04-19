@@ -84,7 +84,7 @@ Semana Santa. No hay seminario.
 
 ### Abril 30
 
-[Daniel Matute](http://dm-incompatibilities.org/index.html), Assistant Professor, Biology Department, University of North Carolina Chapeil Hill.
+[Daniel Matute](http://dm-incompatibilities.org/index.html), Assistant Professor, Biology Department, University of North Carolina Chapel Hill. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
 ### Mayo 7
 
@@ -92,11 +92,11 @@ Semana Santa. No hay seminario.
 
 ### Mayo 14
 
-[Seema Sheth](https://seemasheth.weebly.com/), Assistant Professor, Plant and Microbial Biology Department, North Carolina State University.
+[Seema Sheth](https://seemasheth.weebly.com/), Assistant Professor, Plant and Microbial Biology Department, North Carolina State University. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
 ### Mayo 21
 
-[Noah Whiteman](http://www.noahwhiteman.org/), Associate Professor, Department of Integrative Biology, University of California - Berkeley.
+[Noah Whiteman](http://www.noahwhiteman.org/), Associate Professor, Department of Integrative Biology, University of California - Berkeley. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
 ----------------
 
