@@ -84,13 +84,19 @@ Semana Santa. No hay seminario.
 
 ### Abril 30
 
+[Daniel Matute](http://dm-incompatibilities.org/index.html),Assistant Professor, Biology Department, University of North Carolina Chapeil Hill.
+
 ### Mayo 7
 
 [Claudia Leal](https://academia.uniandes.edu.co/AcademyCv/claleal), Profesora Asociada, Departamento de Historia, Universidad de los Andes. **Un tesoro reservado para la ciencia: El inusual comienzo de la conservación de la naturaleza en Colombia**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
 ### Mayo 14
 
+[Seema Sheth](https://seemasheth.weebly.com/), Assistant Professor, Plant and Microbial Biology Department, North Carolina State University.
+
 ### Mayo 21
+
+[Noah Whiteman](http://www.noahwhiteman.org/), Associate Professor, Department of Integrative Biology, University of California - Berkeley.
 
 ----------------
 
