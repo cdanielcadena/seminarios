@@ -84,7 +84,7 @@ Semana Santa. No hay seminario.
 
 ### Abril 30
 
-[Daniel Matute](http://dm-incompatibilities.org/index.html),Assistant Professor, Biology Department, University of North Carolina Chapeil Hill.
+[Daniel Matute](http://dm-incompatibilities.org/index.html), Assistant Professor, Biology Department, University of North Carolina Chapeil Hill.
 
 ### Mayo 7
 
