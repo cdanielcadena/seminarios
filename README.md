@@ -82,6 +82,10 @@ Semana Santa. No hay seminario.
 
 ### Abril 23
 
+[Susana Caballero](https://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb?id=111), Profesora Asociada, Departamento de Ciencias Biológicas, Universidad de los Andes. **Avances en genética y genómica aplicada a la conservación de mamíferos**.
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/40.jpg' width=300/>
+
 ### Abril 30
 
 [Daniel Matute](http://dm-incompatibilities.org/index.html), Assistant Professor, Biology Department, University of North Carolina Chapel Hill. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
