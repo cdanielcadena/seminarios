@@ -100,7 +100,7 @@ Semana Santa. No hay seminario.
 
 ### Mayo 21
 
-[Noah Whiteman](http://www.noahwhiteman.org/), Associate Professor, Department of Integrative Biology, University of California - Berkeley. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
+[Noah Whiteman](http://www.noahwhiteman.org/), Associate Professor, Department of Integrative Biology, University of California - Berkeley. **A tale of two toxins: Evolution by small steps and giant leaps** Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
 ----------------
 
