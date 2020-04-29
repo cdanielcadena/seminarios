@@ -96,9 +96,11 @@ Semana Santa. No hay seminario.
 
 [Claudia Leal](https://academia.uniandes.edu.co/AcademyCv/claleal), Profesora Asociada, Departamento de Historia, Universidad de los Andes. **Un tesoro reservado para la ciencia: El inusual comienzo de la conservación de la naturaleza en Colombia**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/42.jpg' width=300/>
+
 ### Mayo 14
 
-[Seema Sheth](https://seemasheth.weebly.com/), Assistant Professor, Plant and Microbial Biology Department, North Carolina State University. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
+Por anunciar.
 
 ### Mayo 21
 
