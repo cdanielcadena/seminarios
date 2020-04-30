@@ -100,7 +100,7 @@ Semana Santa. No hay seminario.
 
 ### Mayo 14
 
-[Hernán Burbano](https://www.burbanolab.org/) Associate Professor of Ancient Plant Genomics, Department of Genetics, Evolution and Environment, University College London. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
+[Hernán Burbano](https://www.burbanolab.org/), Associate Professor of Ancient Plant Genomics, Department of Genetics, Evolution and Environment, University College London. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
 ### Mayo 21
 
