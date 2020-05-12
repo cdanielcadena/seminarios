@@ -102,6 +102,8 @@ Semana Santa. No hay seminario.
 
 [Hernán Burbano](https://www.burbanolab.org/), Associate Professor of Ancient Plant Genomics, Department of Genetics, Evolution and Environment, University College London. **A retrospective view on plant genetic diversity using ancient DNA**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
 
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/43.jpg' width=300/>
+
 ### Mayo 21
 
 [Noah Whiteman](http://www.noahwhiteman.org/), Associate Professor, Department of Integrative Biology, University of California - Berkeley. **A tale of two toxins: Evolution by small steps and giant leaps** Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
