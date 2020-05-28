@@ -1,9 +1,15 @@
 # Seminario del Departamento de Ciencias Biológicas, Universidad de los Andes
 
     Jueves, 12:30 a 1:20 pm.
-    Salón ML 604 o virtualmente vía Zoom
-    Entrada Libre
+    https://www.facebook.com/RENATAColombia
     Contacto: C. Daniel Cadena (ccadena@uniandes.edu.co)
+
+## Período Intersemestral 2020
+### Junio 4
+
+[Cameron Ghalambor](https://sites.biology.colostate.edu/ghalamborlab/Ghalambor_Lab/Welcome.html), Professor, Department of Biology & Graduate Degree Program in Ecology, Colorado State University. **Incorporating phenotypic plasticity into studies of adaptive evolution**. 
+
+----------------
 
 ## Primer Semestre de 2020
 ### Enero 23
