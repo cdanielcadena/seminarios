@@ -9,6 +9,8 @@
 
 [Cameron Ghalambor](https://sites.biology.colostate.edu/ghalamborlab/Ghalambor_Lab/Welcome.html), Professor, Department of Biology & Graduate Degree Program in Ecology, Colorado State University. **Incorporating phenotypic plasticity into studies of adaptive evolution**. 
 
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/29.jpg' width=300/>
+
 ----------------
 
 ## Primer Semestre de 2020
