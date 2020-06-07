@@ -11,6 +11,10 @@
 
 <img src='https://github.com/cdanielcadena/seminarios/blob/master/45.jpg' width=300/>
 
+### Junio 11
+
+[Shane Campbell-Staton](https://sites.biology.colostate.edu/ghalamborlab/Ghalambor_Lab/Welcome.html), Assistant Professor, Department of  Ecology and Evolutionary Biology and Institute for Society and Genetics, University of California Los Angeles. **Evolution in the Age of Us: Mechanisms and consequences of anthropogenic selection in the wild**.
+
 ----------------
 
 ## Primer Semestre de 2020
