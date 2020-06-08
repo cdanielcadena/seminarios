@@ -14,6 +14,18 @@
 ### Junio 11
 
 [Shane Campbell-Staton](https://sites.biology.colostate.edu/ghalamborlab/Ghalambor_Lab/Welcome.html), Assistant Professor, Department of  Ecology and Evolutionary Biology and Institute for Society and Genetics, University of California Los Angeles. **Evolution in the Age of Us: Mechanisms and consequences of anthropogenic selection in the wild**.
+      
+       Human modifications to the natural world present extreme and novel environments for many species around 
+       the globe, and offer unique opportunities to study biological change in real-time. Understanding the proximate
+       (physiological/developmental) and ultimate (evolutionary) mechanisms that drive adaptive responses to
+       human-altered environments is among the most pressing concerns of contemporary organismal biology. Studies
+       of anthropogenic selection offer novel perspectives on classic and outstanding questions across evolutionary
+       biology and may have important implications for contemporary human health. Dr. Shane Campbell-Staton’s research
+       integrates diverse experimental and methodological techniques to gain a deeper understanding of how human 
+       activity and decision making shape biological stress and evolution in the modern world. This seminar will
+       highlight his current research at the intersection of evolution and human-induced global change.
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/46.jpg' width=300/>
 
 ----------------
 
