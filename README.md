@@ -1,7 +1,7 @@
 # Seminario del Departamento de Ciencias Biológicas, Universidad de los Andes
 
     Jueves, 12:30 a 1:20 pm.
-    https://www.facebook.com/RENATAColombia
+    https://www.youtube.com/channel/UCcxqhcWsSBFvYVCQVyFI0GQ
     Contacto: C. Daniel Cadena (ccadena@uniandes.edu.co)
 
 ## Período Intersemestral 2020
@@ -30,7 +30,7 @@
 ### Julio 9
 
 [Carolina Mehaffy](https://www.researchgate.net/profile/Carolina_Mehaffy2), Research Scientist / Scholar, Department of Microbiology, Immunology and Pathology,
-Colorado State University. [**Proteómica en el estudio de la Tuberculosis: biomarcadores del patógeno en infección y enfermedad"**](https://www.youtube.com/watch?v=8f-jUQziEIo).
+Colorado State University. [Proteómica en el estudio de la Tuberculosis: biomarcadores del patógeno en infección y enfermedad](https://www.youtube.com/watch?v=8f-jUQziEIo).
 
 <img src='https://github.com/cdanielcadena/seminarios/blob/master/47.jpg' width=300/>
 ----------------
