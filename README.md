@@ -13,7 +13,7 @@
 
 ### Junio 11
 
-[Shane Campbell-Staton](https://sites.biology.colostate.edu/ghalamborlab/Ghalambor_Lab/Welcome.html), Assistant Professor, Department of  Ecology and Evolutionary Biology and Institute for Society and Genetics, University of California Los Angeles. **Evolution in the Age of Us: Mechanisms and consequences of anthropogenic selection in the wild**.
+[Shane Campbell-Staton](https://sites.biology.colostate.edu/ghalamborlab/Ghalambor_Lab/Welcome.html), Assistant Professor, Department of Ecology and Evolutionary Biology and Institute for Society and Genetics, University of California Los Angeles. **Evolution in the Age of Us: Mechanisms and consequences of anthropogenic selection in the wild**.
       
        Human modifications to the natural world present extreme and novel environments for many species around 
        the globe, and offer unique opportunities to study biological change in real-time. Understanding the proximate
@@ -27,6 +27,12 @@
 
 <img src='https://github.com/cdanielcadena/seminarios/blob/master/46.jpg' width=300/>
 
+### Julio 9
+
+[Carolina Mehaffy](https://www.researchgate.net/profile/Carolina_Mehaffy2), Research Scientist / Scholar, Department of Microbiology, Immunology and Pathology,
+Colorado State University. [**Proteómica en el el estudio de la Tubercolosis: biomarcadores del patógeno en infección y enfermedad"**](https://www.youtube.com/watch?v=8f-jUQziEIo).
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/47.jpg' width=300/>
 ----------------
 
 ## Primer Semestre de 2020
