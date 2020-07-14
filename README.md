@@ -4,7 +4,7 @@
     https://www.youtube.com/channel/UCcxqhcWsSBFvYVCQVyFI0GQ
     Contacto: C. Daniel Cadena (ccadena@uniandes.edu.co)
 
-## Período Intersemestral 2020
+## Período Intersemestral y Segundo Semestre 2020
 ### Junio 4
 
 [Cameron Ghalambor](https://sites.biology.colostate.edu/ghalamborlab/Ghalambor_Lab/Welcome.html), Professor, Department of Biology & Graduate Degree Program in Ecology, Colorado State University. **Incorporating phenotypic plasticity into studies of adaptive evolution**. 
@@ -33,6 +33,15 @@
 Colorado State University. [Proteómica en el estudio de la Tuberculosis: biomarcadores del patógeno en infección y enfermedad](https://www.youtube.com/watch?v=8f-jUQziEIo).
 
 <img src='https://github.com/cdanielcadena/seminarios/blob/master/47.jpg' width=300/>
+
+### Julio 23
+
+TBA
+
+### Agosto 13
+
+[Ricardo Mallarino](https://molbio.princeton.edu/people/ricardo-mallarino), Assistant Professor, Department of Molecular Biology, Princeton University. **Los mecanismos moleculares que originan la diversidad biológica**.
+
 ----------------
 
 ## Primer Semestre de 2020
