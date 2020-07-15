@@ -40,7 +40,7 @@ TBA
 
 ### Agosto 13
 
-[Ricardo Mallarino](https://molbio.princeton.edu/people/ricardo-mallarino), Assistant Professor, Department of Molecular Biology, Princeton University. **Los mecanismos moleculares que originan la diversidad biológica**.
+[Ricardo Mallarino](https://www.mallarinolab.org/), Assistant Professor, Department of Molecular Biology, Princeton University. **Los mecanismos moleculares que originan la diversidad biológica**.
 
 ----------------
 
