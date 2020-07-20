@@ -36,11 +36,19 @@ Colorado State University. [Proteómica en el estudio de la Tuberculosis: biomar
 
 ### Julio 23
 
-TBA
+[Andrés Link](https://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb?id=74), Profesor Asociado, Departamento de Ciencias Biológicas, Universidad de los Andes.
 
 ### Agosto 13
 
 [Ricardo Mallarino](https://www.mallarinolab.org/), Assistant Professor, Department of Molecular Biology, Princeton University. **Los mecanismos moleculares que originan la diversidad biológica**.
+
+### Agosto 20
+
+TBA
+
+### Agosto 27
+
+[Daniel Ortiz-Barrientos](http://www.ortizbarrientoslab.me/), Associate Professor, School of Biological Sciences, University of Queensland. Horario especial: 5:00 pm.
 
 ----------------
 
