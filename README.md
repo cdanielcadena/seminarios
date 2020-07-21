@@ -36,7 +36,9 @@ Colorado State University. [Proteómica en el estudio de la Tuberculosis: biomar
 
 ### Julio 23
 
-[Andrés Link](https://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb?id=74), Profesor Asociado, Departamento de Ciencias Biológicas, Universidad de los Andes.
+[Andrés Link](https://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb?id=74), Profesor Asociado, Departamento de Ciencias Biológicas, Universidad de los Andes. [Magdalena Medio: ciencia y conservación en un hotspot de biodiversidad en Colombia](https://www.youtube.com/watch?v=zEuXF2LhRIU).
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/48.jpg' width=300/>
 
 ### Agosto 13
 
