@@ -42,7 +42,7 @@ Colorado State University. [Proteómica en el estudio de la Tuberculosis: biomar
 
 ### Agosto 13
 
-[Ricardo Mallarino](https://www.mallarinolab.org/), Assistant Professor, Department of Molecular Biology, Princeton University. **Los mecanismos moleculares que originan la diversidad biológica**.
+[Ricardo Mallarino](https://www.mallarinolab.org/), Assistant Professor, Department of Molecular Biology, Princeton University. **Los mecanismos moleculares que originan la diversidad biológica: lecciones de la piel de los mamíferos**.
 
 ### Agosto 20
 
