@@ -52,6 +52,13 @@ TBA
 
 [Daniel Ortiz-Barrientos](http://www.ortizbarrientoslab.me/), Associate Professor, School of Biological Sciences, University of Queensland. Horario especial: 5:00 pm.
 
+### Septiembre 3
+
+TBA
+
+### Septiembre 10
+[Marcelo Tejedor](https://www.researchgate.net/profile/Marcelo_Tejedor), Instituto Patagónico de Geología y Paleontología, Argentina.
+
 ----------------
 
 ## Primer Semestre de 2020
