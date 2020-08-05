@@ -1,6 +1,6 @@
 # Seminario del Departamento de Ciencias Biológicas, Universidad de los Andes
 
-    Jueves, 12:30 a 1:20 pm.
+    Jueves, 1:00 a 2:15 pm
     https://www.youtube.com/channel/UCcxqhcWsSBFvYVCQVyFI0GQ
     Contacto: C. Daniel Cadena (ccadena@uniandes.edu.co)
 
