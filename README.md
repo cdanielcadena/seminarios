@@ -54,7 +54,7 @@ TBA
 
 ### Septiembre 3
 
-TBA
+[Zulma Cucunubá](http://www.imperial.ac.uk/people/zulma.cucunuba), Research Fellow, Imperial College, London.
 
 ### Septiembre 10
 [Marcelo Tejedor](https://www.researchgate.net/profile/Marcelo_Tejedor), Instituto Patagónico de Geología y Paleontología, Argentina.
