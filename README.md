@@ -54,7 +54,7 @@ TBA
 
 ### Septiembre 3
 
-[Zulma Cucunubá](http://www.imperial.ac.uk/people/zulma.cucunuba), Research Fellow, Imperial College, London.
+[Zulma Cucunubá](http://www.imperial.ac.uk/people/zulma.cucunuba), Research Fellow, Imperial College, London. **COVID-19 en América Latina: Consideraciones para modelar y entender el impacto directo en salud**.
 
 ### Septiembre 10
 [Marcelo Tejedor](https://www.researchgate.net/profile/Marcelo_Tejedor), Instituto Patagónico de Geología y Paleontología, Argentina.
