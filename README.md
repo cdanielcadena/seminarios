@@ -4,7 +4,7 @@
     https://www.youtube.com/channel/UCcxqhcWsSBFvYVCQVyFI0GQ
     Contacto: C. Daniel Cadena (ccadena@uniandes.edu.co)
 
-## Segundo Semestre 2020
+## Segundo Semestre de 2020
 
 ### Agosto 13
 
