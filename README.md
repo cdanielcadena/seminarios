@@ -4,7 +4,30 @@
     https://www.youtube.com/channel/UCcxqhcWsSBFvYVCQVyFI0GQ
     Contacto: C. Daniel Cadena (ccadena@uniandes.edu.co)
 
-## Período Intersemestral y Segundo Semestre 2020
+## Segundo Semestre 2020
+
+### Agosto 13
+
+[Ricardo Mallarino](https://www.mallarinolab.org/), Assistant Professor, Department of Molecular Biology, Princeton University. **Los mecanismos moleculares que originan la diversidad biológica: lecciones de la piel de los mamíferos**.
+
+### Agosto 20
+
+TBA
+
+### Agosto 27
+
+[Daniel Ortiz-Barrientos](http://www.ortizbarrientoslab.me/), Associate Professor, School of Biological Sciences, University of Queensland. Horario especial: 5:00 pm.
+
+### Septiembre 3
+
+[Zulma Cucunubá](http://www.imperial.ac.uk/people/zulma.cucunuba), Research Fellow, Imperial College, London. **COVID-19 en América Latina: Consideraciones para modelar y entender el impacto directo en salud**.
+
+### Septiembre 10
+[Marcelo Tejedor](https://www.researchgate.net/profile/Marcelo_Tejedor), Instituto Patagónico de Geología y Paleontología, Argentina.
+
+----------------
+
+## Período Intersemestral 2020
 ### Junio 4
 
 [Cameron Ghalambor](https://sites.biology.colostate.edu/ghalamborlab/Ghalambor_Lab/Welcome.html), Professor, Department of Biology & Graduate Degree Program in Ecology, Colorado State University. **Incorporating phenotypic plasticity into studies of adaptive evolution**. 
@@ -39,25 +62,6 @@ Colorado State University. [Proteómica en el estudio de la Tuberculosis: biomar
 [Andrés Link](https://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb?id=74), Profesor Asociado, Departamento de Ciencias Biológicas, Universidad de los Andes. [Magdalena Medio: ciencia y conservación en un hotspot de biodiversidad en Colombia](https://www.youtube.com/watch?v=zEuXF2LhRIU).
 
 <img src='https://github.com/cdanielcadena/seminarios/blob/master/48.jpg' width=300/>
-
-### Agosto 13
-
-[Ricardo Mallarino](https://www.mallarinolab.org/), Assistant Professor, Department of Molecular Biology, Princeton University. **Los mecanismos moleculares que originan la diversidad biológica: lecciones de la piel de los mamíferos**.
-
-### Agosto 20
-
-TBA
-
-### Agosto 27
-
-[Daniel Ortiz-Barrientos](http://www.ortizbarrientoslab.me/), Associate Professor, School of Biological Sciences, University of Queensland. Horario especial: 5:00 pm.
-
-### Septiembre 3
-
-[Zulma Cucunubá](http://www.imperial.ac.uk/people/zulma.cucunuba), Research Fellow, Imperial College, London. **COVID-19 en América Latina: Consideraciones para modelar y entender el impacto directo en salud**.
-
-### Septiembre 10
-[Marcelo Tejedor](https://www.researchgate.net/profile/Marcelo_Tejedor), Instituto Patagónico de Geología y Paleontología, Argentina.
 
 ----------------
 
