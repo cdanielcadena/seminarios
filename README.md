@@ -10,6 +10,8 @@
 
 [Ricardo Mallarino](https://www.mallarinolab.org/), Assistant Professor, Department of Molecular Biology, Princeton University. [Los mecanismos moleculares que originan la diversidad biológica: lecciones de la piel de los mamíferos](https://www.youtube.com/watch?v=7EQnfC6EYEc).
 
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/49.jpg' width=300/>
+
 ### Agosto 20
 
 [David Johnston-Monje](https://symbiotico.co/), Principal Investigator and Max Planck Tandem Group Leader, Plant Agriculture and Microbial Ecology, Universidad del Valle, Cali. **Studying the seed microbiome**.
