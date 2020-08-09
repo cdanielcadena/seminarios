@@ -8,11 +8,11 @@
 
 ### Agosto 13
 
-[Ricardo Mallarino](https://www.mallarinolab.org/), Assistant Professor, Department of Molecular Biology, Princeton University. **Los mecanismos moleculares que originan la diversidad biológica: lecciones de la piel de los mamíferos**.
+[Ricardo Mallarino](https://www.mallarinolab.org/), Assistant Professor, Department of Molecular Biology, Princeton University. [Los mecanismos moleculares que originan la diversidad biológica: lecciones de la piel de los mamíferos](https://www.youtube.com/watch?v=7EQnfC6EYEc).
 
 ### Agosto 20
 
-TBA
+[David Johnson-Monje](www.symbiotico.co), Principal Investigator and Max Planck Tandem Group Leader, Plant Agriculture and Microbial Ecology, Universidad del Valle, Cali. **Studying the seed microbiome**.
 
 ### Agosto 27
 
