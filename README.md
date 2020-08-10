@@ -27,6 +27,9 @@
 ### Septiembre 10
 [Marcelo Tejedor](https://www.researchgate.net/profile/Marcelo_Tejedor), Instituto Patagónico de Geología y Paleontología, Argentina.
 
+### Septiembre 17
+[Adriana Bernal](http://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb/162), Profesora Asociada, Departamento de Ciencias Biológicas, Universidad de los Andes.
+
 ----------------
 
 ## Período Intersemestral 2020
