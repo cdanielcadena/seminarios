@@ -16,7 +16,7 @@
 
 [David Johnston-Monje](https://symbiotico.co/), Principal Investigator and Max Planck Tandem Group Leader, Plant Agriculture and Microbial Ecology, Universidad del Valle, Cali. [Studying the seed microbiome](https://www.youtube.com/watch?v=wypwWJcKQrI).
 
-<img src='https://github.com/cdanielcadena/seminarios/blob/master/49.jpg' width=300/>
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/50.jpg' width=300/>
 
 ### Agosto 27
 
