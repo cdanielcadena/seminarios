@@ -20,7 +20,7 @@
 
 ### Agosto 27
 
-[Daniel Ortiz-Barrientos](http://www.ortizbarrientoslab.me/), Associate Professor, School of Biological Sciences, University of Queensland. Horario especial: 5:00 pm.
+[Daniel Ortiz-Barrientos](http://www.ortizbarrientoslab.me/), Associate Professor, School of Biological Sciences, University of Queensland. **¿Qué tan predecible es el cambio evolutivo? La saga científica de la evolución del gravitropismo en una margarita australiana**. Horario especial: 5:00 pm.
 
 ### Septiembre 3
 
