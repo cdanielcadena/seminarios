@@ -22,6 +22,8 @@
 
 [Daniel Ortiz-Barrientos](http://www.ortizbarrientoslab.me/), Associate Professor, School of Biological Sciences, University of Queensland. [¿Qué tan predecible es el cambio evolutivo? La saga científica de la evolución del gravitropismo en una margarita australiana](https://www.youtube.com/watch?v=9JYhwHu6o8o). Horario especial: 5:00 pm.
 
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/51.jpg' width=300/>
+
 ### Septiembre 3
 
 [Zulma Cucunubá](http://www.imperial.ac.uk/people/zulma.cucunuba), Research Fellow, Imperial College, London. **COVID-19 en América Latina: Consideraciones para modelar y entender el impacto directo en salud**.
