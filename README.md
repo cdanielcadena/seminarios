@@ -28,7 +28,7 @@
 
 [Zulma Cucunubá](http://www.imperial.ac.uk/people/zulma.cucunuba), Research Fellow, Imperial College, London. **COVID-19 en América Latina: Consideraciones para modelar y entender el impacto directo en salud**.
 
-<img src='https://github.com/cdanielcadena/seminarios/blob/master/51.jpg' width=300/>
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/52.jpg' width=300/>
 
 ### Septiembre 10
 [Marcelo Tejedor](https://www.researchgate.net/profile/Marcelo_Tejedor), Instituto Patagónico de Geología y Paleontología, Argentina.
