@@ -26,7 +26,7 @@
 
 ### Septiembre 3
 
-[Zulma Cucunubá](http://www.imperial.ac.uk/people/zulma.cucunuba), Research Fellow, Imperial College, London. **COVID-19 en América Latina: Consideraciones para modelar y entender el impacto directo en salud**.
+[Zulma Cucunubá](http://www.imperial.ac.uk/people/zulma.cucunuba), Research Fellow, Imperial College, London. [COVID-19 en América Latina: Consideraciones para modelar y entender el impacto directo en salud](https://www.youtube.com/watch?v=TwR0lQuAA8w).
 
 <img src='https://github.com/cdanielcadena/seminarios/blob/master/52.jpg' width=400/>
 
