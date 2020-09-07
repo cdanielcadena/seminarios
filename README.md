@@ -33,6 +33,8 @@
 ### Septiembre 10
 [Marcelo Tejedor](https://www.researchgate.net/profile/Marcelo_Tejedor), Instituto Patagónico de Geología y Paleontología, Argentina. [La odisea evolutiva de los primates neotropicales](https://www.youtube.com/watch?v=QbCWV0OJS74)
 
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/52.jpg' width=400/>
+
 ### Septiembre 17
 [Adriana Bernal](http://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb/162), Profesora Asociada, Departamento de Ciencias Biológicas, Universidad de los Andes.
 
