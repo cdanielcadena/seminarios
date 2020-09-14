@@ -63,9 +63,7 @@ Semana de Receso. No hay seminario.
 
 ### Noviembre 19
 
-### Noviembre 26
-
-
+Seminario Organizado por Estudiantes de Posgrado.
 
 ----------------
 
