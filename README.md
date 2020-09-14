@@ -51,7 +51,7 @@ TBA
 Semana de Receso. No hay seminario.
 
 ### Octubre 15
-[Katja Poveda](https://entomology.cals.cornell.edu/people/katja-poveda), Associate Professor, Department of Entomology, Cornell University.
+[Katja Poveda](http://blogs.cornell.edu/katjapoveda/), Associate Professor, Department of Entomology, Cornell University.
 
 ### Octubre 22
 
