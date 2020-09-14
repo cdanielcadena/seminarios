@@ -38,6 +38,35 @@
 ### Septiembre 17
 [Adriana Bernal](http://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb/162), Profesora Asociada, Departamento de Ciencias Biológicas, Universidad de los Andes.
 
+### Septiembre 24
+
+TBA
+
+### Octubre 1
+
+TBA
+
+### Octubre 8
+
+Semana de Receso. No hay seminario.
+
+### Octubre 15
+[Katja Poveda](https://entomology.cals.cornell.edu/people/katja-poveda), Associate Professor, Department of Entomology, Cornell University.
+
+### Octubre 22
+
+### Octubre 29
+
+### Noviembre 5
+
+### Noviembre 12
+
+### Noviembre 19
+
+### Noviembre 26
+
+
+
 ----------------
 
 ## Período Intersemestral 2020
