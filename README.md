@@ -31,7 +31,7 @@
 <img src='https://github.com/cdanielcadena/seminarios/blob/master/52.jpg' width=400/>
 
 ### Septiembre 10
-[Marcelo Tejedor](https://www.researchgate.net/profile/Marcelo_Tejedor), Instituto Patagónico de Geología y Paleontología, Argentina. [La odisea evolutiva de los primates neotropicales](https://www.youtube.com/watch?v=QbCWV0OJS74)
+[Marcelo Tejedor](https://www.researchgate.net/profile/Marcelo_Tejedor), Instituto Patagónico de Geología y Paleontología, Argentina. [La odisea evolutiva de los primates neotropicales](https://www.youtube.com/watch?v=QbCWV0OJS74).
 
 <img src='https://github.com/cdanielcadena/seminarios/blob/master/53.jpg' width=400/>
 
