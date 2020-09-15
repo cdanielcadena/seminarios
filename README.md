@@ -59,6 +59,8 @@ Semana de Receso. No hay seminario.
 
 ### Noviembre 5
 
+[Iliana Medina](https://www.ecomedina.com/), Lecturer, School of BioSciences, University of Melbourne.
+
 ### Noviembre 12
 
 ### Noviembre 19
