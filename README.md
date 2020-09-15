@@ -36,7 +36,9 @@
 <img src='https://github.com/cdanielcadena/seminarios/blob/master/53.jpg' width=400/>
 
 ### Septiembre 17
-[Adriana Bernal](http://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb/162), Profesora Asociada, Departamento de Ciencias Biológicas, Universidad de los Andes. Bacterias sigilosas: entendiendo cómo causar enfermedad en yuca
+[Adriana Bernal](http://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb/162), Profesora Asociada, Departamento de Ciencias Biológicas, Universidad de los Andes. [Bacterias sigilosas: entendiendo cómo causar enfermedad en yuca](https://www.youtube.com/watch?v=a93GgATzDGM).
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/54.jpg' width=400/>
 
 ### Septiembre 24
 
