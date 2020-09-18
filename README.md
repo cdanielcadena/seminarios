@@ -42,7 +42,7 @@
 
 ### Septiembre 24
 
-[Camila Martínez](https://www.researchgate.net/profile/Camila_Martinez), Investigadora Postdoctoral, Smithsonian Tropical Research Institute. **Inferencias paleoclimáticas y paleoaltitudinales basadas en el registro fósil de plantas neotropicales**
+[Camila Martínez](https://www.researchgate.net/profile/Camila_Martinez), Investigadora Postdoctoral, Smithsonian Tropical Research Institute. **Inferencias paleoclimáticas y paleoaltitudinales basadas en el registro fósil de plantas neotropicales**.
 
 ### Octubre 1
 
