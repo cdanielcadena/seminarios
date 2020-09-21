@@ -61,7 +61,7 @@ Semana de Receso. No hay seminario.
 
 ### Noviembre 5
 
-[Iliana Medina](https://www.ecomedina.com/), Lecturer, School of BioSciences, University of Melbourne.
+[Iliana Medina](https://www.ecomedina.com/), Lecturer, School of BioSciences, University of Melbourne. **Evolución de colores visibles e invisibles: historias de aves e insectos joya**.
 
 ### Noviembre 12
 
