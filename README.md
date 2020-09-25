@@ -67,6 +67,8 @@ Semana de Receso. No hay seminario.
 
 ### Noviembre 12
 
+[Federico Hoffmann](https://www.biochemistry.msstate.edu/associate.php?id=106), Associate Professor, Department of Biochemistry, Molecular Biology, Entomology, & Plant Pathology, Mississippi State University.
+
 ### Noviembre 19
 
 Seminario especial organizado por estudiantes de posgrado.
