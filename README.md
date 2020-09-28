@@ -55,7 +55,7 @@ TBA
 Semana de Receso. No hay seminario.
 
 ### Octubre 15
-[Katja Poveda](http://blogs.cornell.edu/katjapoveda/), Associate Professor, Department of Entomology, Cornell University.
+[Katja Poveda](http://blogs.cornell.edu/katjapoveda/), Associate Professor, Department of Entomology, Cornell University. **La simplificación del paisaje reduce la productividad de cultivos a través de cambios en la comunidad de polinizadores**.
 
 ### Octubre 22
 
