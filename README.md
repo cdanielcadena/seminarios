@@ -50,7 +50,7 @@
 
 [Jorge Molina](https://cienciasbiologicas.uniandes.edu.co/index.php/es/component/sppagebuilder/?view=page&id=67), Profesor Titular, Departamento de Ciencias Biológicas, Universidad de los Andes. [Peces eléctricos débiles de Leticia: Potencial para estudios de ecología y comportamiento *in-situ*](https://www.youtube.com/watch?v=2Ncxrf3UzAQ).
 
-<img src='https://github.com/cdanielcadena/seminarios/blob/master/55.jpg' width=400/>
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/56.jpg' width=400/>
 
 ### Octubre 8
 
