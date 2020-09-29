@@ -42,13 +42,15 @@
 
 ### Septiembre 24
 
-[Camila Martínez](https://www.researchgate.net/profile/Camila_Martinez), Investigadora Postdoctoral, Smithsonian Tropical Research Institute. [Inferencias paleoclimáticas y paleoaltitudinales basadas en el registro fósil de plantas neotropicales](https://www.youtube.com/watch?v=hOpAFo6sSAQ)
+[Camila Martínez](https://www.researchgate.net/profile/Camila_Martinez), Investigadora Postdoctoral, Smithsonian Tropical Research Institute. [Inferencias paleoclimáticas y paleoaltitudinales basadas en el registro fósil de plantas neotropicales](https://www.youtube.com/watch?v=hOpAFo6sSAQ).
 
 <img src='https://github.com/cdanielcadena/seminarios/blob/master/55.jpg' width=400/>
 
 ### Octubre 1
 
-TBA
+[Jorge Molina](https://cienciasbiologicas.uniandes.edu.co/index.php/es/component/sppagebuilder/?view=page&id=67), Profesor Titular, Departamento de Ciencias Biológicas, Universidad de los Andes. [Peces eléctricos débiles de Leticia: Potencial para estudios de ecología y comportamiento *in-situ*](https://www.youtube.com/watch?v=2Ncxrf3UzAQ).
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/55.jpg' width=400/>
 
 ### Octubre 8
 
