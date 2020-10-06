@@ -63,6 +63,8 @@ Semana de Receso. No hay seminario.
 
 ### Octubre 29
 
+[Liliana Dávalos](https://lmdavalos.github.io/), Professor of Conservation Biology, Department of Ecology and Evolution, Stony Brook University.
+
 ### Noviembre 5
 
 [Iliana Medina](https://www.ecomedina.com/), Lecturer, School of BioSciences, University of Melbourne. **Evolución de colores visibles e invisibles: historias de aves e insectos joya**.
@@ -321,7 +323,6 @@ Semana de Receso.
 [Catalina Gonzalez](https://cienciasbiologicas.uniandes.edu.co/index.php/es/personas/profesoresdcb?id=80), Profesora Asociada, Departamento de Ciencias Biológicas, Universidad de los Andes. **Volcanes, diversidad y gente durante los últimos 10.000 años en los Andes tropicales**.
 
 <img src='https://github.com/cdanielcadena/seminarios/blob/master/22.jpg' width=300/>
-
 
 ### Octubre 17
 [Paola Pulido-Santacruz](https://www.researchgate.net/profile/Paola_Pulido-Santacruz). Investigadora, Genética de la Conservación, Programa Ciencias de la Biodiversidad, Instituto Alexander von Humboldt. **Datos genómicos revelan una ventana extendida de introgresión durante el proceso de diversificación de aves neotropicales**. Contacto: [Daniel Cadena](mailto:ccadena@uniandes.edu.co)
