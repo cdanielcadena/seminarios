@@ -57,7 +57,9 @@
 Semana de Receso. No hay seminario.
 
 ### Octubre 15
-[Katja Poveda](http://blogs.cornell.edu/katjapoveda/), Associate Professor, Department of Entomology, Cornell University. **La simplificación del paisaje reduce la productividad de cultivos a través de cambios en la comunidad de polinizadores**.
+[Katja Poveda](http://blogs.cornell.edu/katjapoveda/), Associate Professor, Department of Entomology, Cornell University. [La simplificación del paisaje reduce la productividad de cultivos a través de cambios en la comunidad de polinizadores](https://www.youtube.com/watch?v=9DWGMCkkiTA).
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/57.jpg' width=400/>
 
 ### Octubre 22
 
