@@ -64,7 +64,7 @@ Semana de Receso. No hay seminario.
 
 ### Octubre 22
 
-[Helena Groot de Restrepo](https://cienciasbiologicas.uniandes.edu.co/index.php/es/component/sppagebuilder/?view=page&id=84), Profesora Titular, Departamento de Ciencias Biológicas, Universidad de los Andes. [Epidemiología molecular en la exposición a sustancias de riesgo: biomarcadores en la interacción entre genes y ambiente](https://www.youtube.com/watch?v=9DWGMCkkiTA).
+[Helena Groot de Restrepo](https://cienciasbiologicas.uniandes.edu.co/index.php/es/component/sppagebuilder/?view=page&id=84), Profesora Titular, Departamento de Ciencias Biológicas, Universidad de los Andes. [Epidemiología molecular en la exposición a sustancias de riesgo: biomarcadores en la interacción entre genes y ambiente](https://www.youtube.com/watch?v=Grzsve7oI4E).
 
 <img src='https://github.com/cdanielcadena/seminarios/blob/master/58.jpg' width=400/>
 
