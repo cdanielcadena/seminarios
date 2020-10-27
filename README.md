@@ -84,7 +84,7 @@ Semana de Receso. No hay seminario.
 
 ### Noviembre 19
 
-[Robert Reed](reedlab.org), Professor of Ecology & Evolutionary Biology, Cornell University. **Butterfly wing patterns: Genetics, development, and evolution.** *Seminario especial organizado por estudiantes de posgrado*.
+[Robert Reed](www.reedlab.org), Professor of Ecology & Evolutionary Biology, Cornell University. **Butterfly wing patterns: Genetics, development, and evolution.** *Seminario especial organizado por estudiantes de posgrado*.
 
 ----------------
 
