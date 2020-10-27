@@ -70,7 +70,9 @@ Semana de Receso. No hay seminario.
 
 ### Octubre 29
 
-[Liliana Dávalos](https://lmdavalos.github.io/), Professor of Conservation Biology, Department of Ecology and Evolution, Stony Brook University.
+[Liliana Dávalos](https://lmdavalos.github.io/), Professor of Conservation Biology, Department of Ecology and Evolution, Stony Brook University. [Más preguntas que respuestas en la genómica sensorial de los murciélagos](https://www.youtube.com/watch?v=DR_FCTOYWaM).
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/59.jpg' width=400/>
 
 ### Noviembre 5
 
