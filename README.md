@@ -82,7 +82,7 @@ Semana de Receso. No hay seminario.
 
 ### Noviembre 12
 
-[Federico Hoffmann](https://www.biochemistry.msstate.edu/associate.php?id=106), Associate Professor, Department of Biochemistry, Molecular Biology, Entomology, & Plant Pathology, Mississippi State University.
+[Federico Hoffmann](https://www.biochemistry.msstate.edu/associate.php?id=106), Associate Professor, Department of Biochemistry, Molecular Biology, Entomology, & Plant Pathology, Mississippi State University.**Evolución de las globinas animales: incorporando perspectivas de organismos y globinas no modelo**
 
 ### Noviembre 19
 
