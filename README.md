@@ -82,11 +82,15 @@ Semana de Receso. No hay seminario.
 
 ### Noviembre 12
 
-[Federico Hoffmann](https://www.biochemistry.msstate.edu/associate.php?id=106), Associate Professor, Department of Biochemistry, Molecular Biology, Entomology, & Plant Pathology, Mississippi State University. [Evolución de las globinas animales: incorporando perspectivas de organismos y globinas no modelo](https://www.youtube.com/watch?v=lMYVf1BsrWA). 
+[Federico Hoffmann](https://www.biochemistry.msstate.edu/associate.php?id=106), Associate Professor, Department of Biochemistry, Molecular Biology, Entomology, & Plant Pathology, Mississippi State University. [Evolución de las globinas animales: incorporando perspectivas de organismos y globinas no modelo](https://www.youtube.com/watch?v=lMYVf1BsrWA).
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/61.jpg' width=400/>
 
 ### Noviembre 19
 
 [Robert Reed](http://reedlab.org/), Professor of Ecology & Evolutionary Biology, Cornell University. **Butterfly wing patterns: Genetics, development, and evolution.** *Seminario especial organizado por estudiantes de posgrado*.
+
+<img src='https://github.com/cdanielcadena/seminarios/blob/master/62.jpg' width=400/>
 
 ----------------
 
